@@ -183,12 +183,12 @@
                 </div>
                 <div class="col-md-6 col-lg-3 text-center wow fadeIn" data-wow-delay="0.5s">
                     <i class="fa fa-users fa-2x text-white mb-3"></i>
-                    <h2 class="text-white mb-2" data-toggle="counter-up">200+</h2>
+                    <h2 class="text-white mb-2" data-toggle="counter-up">205</h2>
                     <p class="text-white mb-0">Satisfied Clients</p>
                 </div>
                 <div class="col-md-6 col-lg-3 text-center wow fadeIn" data-wow-delay="0.7s">
                     <i class="fa fa-car fa-2x text-white mb-3"></i>
-                    <h2 class="text-white mb-2" data-toggle="counter-up">300+</h2>
+                    <h2 class="text-white mb-2" data-toggle="counter-up">307</h2>
                     <p class="text-white mb-0">Compleate Projects</p>
                 </div>
             </div>
