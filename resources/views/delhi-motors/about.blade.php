@@ -12,7 +12,7 @@
                     <ol class="breadcrumb justify-content-center text-uppercase">
                         <li class="breadcrumb-item"><a href="#">Home</a></li>
                         <li class="breadcrumb-item"><a href="#">Pages</a></li>
-                        <li class="breadcrumb-item text-white active" aria-current="page">About</li>
+                        <li class="breadcrumb-item text-white active" aria-current="page">About Delhi Motors India</li>
                     </ol>
                 </nav>
             </div>
@@ -30,8 +30,8 @@
                         <i class="fa fa-certificate fa-3x text-primary flex-shrink-0"></i>
                         <div class="ps-4">
                             <h5 class="mb-3">Quality Servicing</h5>
-                            <p>Diam dolor diam ipsum sit amet diam et eos erat ipsum</p>
-                            <a class="text-secondary border-bottom" href="">Read More</a>
+                            <p>Delivering top-tier vehicle maintenance and repair services, ensuring your car performs at its best every time.</p>
+                            <!-- <a class="text-secondary border-bottom" href="">Read More</a> -->
                         </div>
                     </div>
                 </div>
@@ -40,8 +40,8 @@
                         <i class="fa fa-users-cog fa-3x text-primary flex-shrink-0"></i>
                         <div class="ps-4">
                             <h5 class="mb-3">Expert Workers</h5>
-                            <p>Diam dolor diam ipsum sit amet diam et eos erat ipsum</p>
-                            <a class="text-secondary border-bottom" href="">Read More</a>
+                            <p>Highly skilled technicians with extensive experience, providing precise, efficient, and reliable solutions for all car issues</p>
+                            <!-- <a class="text-secondary border-bottom" href="">Read More</a> -->
                         </div>
                     </div>
                 </div>
@@ -50,8 +50,8 @@
                         <i class="fa fa-tools fa-3x text-primary flex-shrink-0"></i>
                         <div class="ps-4">
                             <h5 class="mb-3">Modern Equipment</h5>
-                            <p>Diam dolor diam ipsum sit amet diam et eos erat ipsum</p>
-                            <a class="text-secondary border-bottom" href="">Read More</a>
+                            <p>Utilizing state-of-the-art tools and technology to diagnose and repair vehicles, ensuring accuracy and superior results.</p>
+                            <!-- <a class="text-secondary border-bottom" href="">Read More</a> -->
                         </div>
                     </div>
                 </div>
@@ -77,10 +77,10 @@
                     </div>
                 </div>
                 <div class="col-lg-6">
-                    <h6 class="text-primary text-uppercase">// About Us //</h6>
-                    <h1 class="mb-4"><span class="text-primary">CarServ</span> Is The Best Place For Your Auto Care</h1>
-                    <p class="mb-4">Tempor erat elitr rebum at clita. Diam dolor diam ipsum sit. Aliqu diam amet diam et
-                        eos. Clita erat ipsum et lorem et sit, sed stet lorem sit clita duo justo magna dolore erat amet
+                    <h6 class="text-primary text-uppercase">// About Delhi Motors //</h6>
+                    <h1 class="mb-4"><span class="text-primary"></span> Your Trusted Partner in Automobile</h1>
+                    <p class="mb-4">Delhi Motors has been providing top-tier automotive services for over many years. Our mission is to offer reliable, efficient, and affordable services to car owners across Delhi.
+                        We believe in building long-term relationships with our clients, and our commitment to quality has helped us earn the trust of thousands of satisfied customers.
                     </p>
                     <div class="row g-4 mb-3 pb-3">
                         <div class="col-12 wow fadeIn" data-wow-delay="0.1s">
@@ -90,8 +90,8 @@
                                     <span class="fw-bold text-secondary">01</span>
                                 </div>
                                 <div class="ps-3">
-                                    <h6>Professional & Expert</h6>
-                                    <span>Diam dolor diam ipsum sit amet diam et eos</span>
+                                    <h6>Excellence</h6>
+                                    <span>We strive for the highest standards in everything we do.</span>
                                 </div>
                             </div>
                         </div>
@@ -102,8 +102,8 @@
                                     <span class="fw-bold text-secondary">02</span>
                                 </div>
                                 <div class="ps-3">
-                                    <h6>Quality Servicing Center</h6>
-                                    <span>Diam dolor diam ipsum sit amet diam et eos</span>
+                                    <h6>Integrity</h6>
+                                    <span>Transparency and honesty guide all our business practices.</span>
                                 </div>
                             </div>
                         </div>
@@ -114,13 +114,13 @@
                                     <span class="fw-bold text-secondary">03</span>
                                 </div>
                                 <div class="ps-3">
-                                    <h6>Awards Winning Workers</h6>
-                                    <span>Diam dolor diam ipsum sit amet diam et eos</span>
+                                    <h6>Customer-Centric:</h6>
+                                    <span>We prioritize customer satisfaction and long-term partnerships.</span>
                                 </div>
                             </div>
                         </div>
                     </div>
-                    <a href="" class="btn btn-primary py-3 px-5">Read More<i class="fa fa-arrow-right ms-3"></i></a>
+                    <!-- <a href="" class="btn btn-primary py-3 px-5">Read More<i class="fa fa-arrow-right ms-3"></i></a> -->
                 </div>
             </div>
         </div>
@@ -129,7 +129,7 @@
 
 
     <!-- Fact Start -->
-    <div class="container-fluid fact bg-dark my-5 py-5">
+    <!-- <div class="container-fluid fact bg-dark my-5 py-5">
         <div class="container">
             <div class="row g-4">
                 <div class="col-md-6 col-lg-3 text-center wow fadeIn" data-wow-delay="0.1s">
@@ -154,7 +154,7 @@
                 </div>
             </div>
         </div>
-    </div>
+    </div> -->
     <!-- Fact End -->
 
 

@@ -89,7 +89,7 @@
                 <a href="{{url('')}}" class="nav-item nav-link active">Home</a>
                 <a href="{{url('/about')}}" class="nav-item nav-link">About</a>
                 <a href="{{url(path: '/services')}}" class="nav-item nav-link">Services</a>
-                <div class="nav-item dropdown">
+                <!-- <div class="nav-item dropdown">
                     <a href="#" class="nav-link dropdown-toggle" data-bs-toggle="dropdown">Pages</a>
                     <div class="dropdown-menu fade-up m-0">
                         <a href="booking.html" class="dropdown-item">Booking</a>
@@ -97,10 +97,10 @@
                         <a href="testimonial.html" class="dropdown-item">Testimonial</a>
                         <a href="404.html" class="dropdown-item">404 Page</a>
                     </div>
-                </div>
+                </div> -->
                 <a href="{{url(path: '/contact-us')}}" class="nav-item nav-link">Contact</a>
             </div>
-            <a href="{{url(path: '/contact-us')}}" class="btn btn-primary py-4 px-lg-5 d-none d-lg-block">Book A Service<i
+            <a href="{{url(path: '/contact-us')}}" class="btn btn-primary py-4 px-lg-5 d-none d-lg-block">Get a Free Estimate<i
                     class="fa fa-arrow-right ms-3"></i></a>
         </div>
     </nav>
@@ -133,11 +133,11 @@
                 </div>
                 <div class="col-lg-3 col-md-6">
                     <h4 class="text-light mb-4">Services</h4>
-                    <a class="btn btn-link" href="">Diagnostic Test</a>
-                    <a class="btn btn-link" href="">Engine Servicing</a>
-                    <a class="btn btn-link" href="">Tires Replacement</a>
-                    <a class="btn btn-link" href="">Oil Changing</a>
-                    <a class="btn btn-link" href="">Vacuam Cleaning</a>
+                    <a class="btn btn-link" href="">General Maintenance & Repairs</a>
+                    <a class="btn btn-link" href="">Car Washing & Detailing</a>
+                    <a class="btn btn-link" href="">Tyres & Wheels </a>
+                    <a class="btn btn-link" href="">Car Accessories & Customization</a>
+                    <!-- <a class="btn btn-link" href="">Vacuam Cleaning</a> -->
                 </div>
                 <div class="col-lg-3 col-md-6">
                     <h4 class="text-light mb-4">Newsletter</h4>

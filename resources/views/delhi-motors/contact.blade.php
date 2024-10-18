@@ -38,19 +38,19 @@
                         <div class="col-md-4">
                             <div class="bg-light d-flex flex-column justify-content-center p-4">
                                 <h5 class="text-uppercase">// Booking //</h5>
-                                <p class="m-0"><i class="fa fa-envelope-open text-primary me-2"></i>book@example.com</p>
+                                <p class="m-0"><i class="fa fa-envelope-open text-primary me-2"></i>book@delhimotorsindia.com</p>
                             </div>
                         </div>
                         <div class="col-md-4">
                             <div class="bg-light d-flex flex-column justify-content-center p-4">
                                 <h5 class="text-uppercase">// General //</h5>
-                                <p class="m-0"><i class="fa fa-envelope-open text-primary me-2"></i>info@example.com</p>
+                                <p class="m-0"><i class="fa fa-envelope-open text-primary me-2"></i>info@delhimotorsindia.com</p>
                             </div>
                         </div>
                         <div class="col-md-4">
                             <div class="bg-light d-flex flex-column justify-content-center p-4">
                                 <h5 class="text-uppercase">// Technical //</h5>
-                                <p class="m-0"><i class="fa fa-envelope-open text-primary me-2"></i>tech@example.com</p>
+                                <p class="m-0"><i class="fa fa-envelope-open text-primary me-2"></i>tech@delhimotorsindia.com</p>
                             </div>
                         </div>
                     </div>
@@ -65,9 +65,7 @@
                 </div>
                 <div class="col-md-6">
                     <div class="wow fadeInUp" data-wow-delay="0.2s">
-                        <p class="mb-4">The contact form is currently inactive. Get a functional and working contact
-                            form with Ajax & PHP in a few minutes. Just copy and paste the files, add a little code and
-                            you're done. <a href="https://htmlcodex.com/contact-form">Download Now</a>.</p>
+                        <p class="mb-4">We’re Here to Help – Whether You Have a Question or Want to Schedule a Service..</p>
                         <form>
                             <div class="row g-3">
                                 <div class="col-md-6">
