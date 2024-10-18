@@ -61,6 +61,8 @@
                 <div class="h-100 d-inline-flex align-items-center py-3 me-4">
                     <small class="fa fa-phone-alt text-primary me-2"></small>
                     <small>011-43554962</small>
+                    <!-- <small class="fa fa-phone-alt text-primary me-2"></small> -->
+                    <small> ,  09891611064</small>
                 </div>
                 <div class="h-100 d-inline-flex align-items-center">
                     <a class="btn btn-sm-square bg-white text-primary me-1" href=""><i
