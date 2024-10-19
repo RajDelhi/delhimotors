@@ -34,10 +34,10 @@
                                 <div class="col-10 col-lg-7 text-center text-lg-start">
                                     <h6 class="text-white text-uppercase mb-3 animated slideInDown">// Car Servicing //
                                     </h6>
-                                    <h1 class="display-3 text-white mb-4 pb-3 animated slideInDown">Your One-Stop Solution for All Car Repairs, Maintenance, and Accessories
-                                        Service Center</h1>
-                                    <a href="" class="btn btn-primary py-3 px-5 animated slideInDown">Learn More<i
-                                            class="fa fa-arrow-right ms-3"></i></a>
+                                    <h1 class="display-3 text-white mb-4 pb-3 animated slideInDown">Your One-Stop Solution for All Cars Periodic Service, Repairs, Paint Job & Accessories
+                                        </h1>
+                                    <!-- <a href="" class="btn btn-primary py-3 px-5 animated slideInDown">Learn More<i
+                                            class="fa fa-arrow-right ms-3"></i></a> -->
                                 </div>
                                 <div class="col-lg-5 d-none d-lg-flex animated zoomIn">
                                     <img class="img-fluid" src="img/carousel-2.png" alt="">
@@ -61,42 +61,42 @@
 
 
     <!-- Service Start -->
-    <div class="container-xxl py-5">
-        <div class="container">
-            <div class="row g-4">
-                <div class="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.1s">
-                    <div class="d-flex py-5 px-4">
-                        <i class="fa fa-certificate fa-3x text-primary flex-shrink-0"></i>
-                        <div class="ps-4">
-                            <h5 class="mb-3">Quality Servicing</h5>
-                            <p>Delivering top-tier vehicle maintenance and repair services, ensuring your car performs at its best every time.</p>
-                            <a class="text-secondary border-bottom" href="/services">Read More</a>
+        <!-- <div class="container-xxl py-5">
+            <div class="container">
+                <div class="row g-4">
+                    <div class="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.1s">
+                        <div class="d-flex py-5 px-4">
+                            <i class="fa fa-certificate fa-3x text-primary flex-shrink-0"></i>
+                            <div class="ps-4">
+                                <h5 class="mb-3">Quality Servicing</h5>
+                                <p>Delivering top-tier vehicle maintenance and repair services, ensuring your car performs at its best every time.</p>
+                                <a class="text-secondary border-bottom" href="/services">Read More</a>
+                            </div>
                         </div>
                     </div>
-                </div>
-                <div class="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.3s">
-                    <div class="d-flex bg-light py-5 px-4">
-                        <i class="fa fa-users-cog fa-3x text-primary flex-shrink-0"></i>
-                        <div class="ps-4">
-                            <h5 class="mb-3">Expert Workers</h5>
-                            <p>Highly skilled technicians with extensive experience, providing precise, efficient, and reliable solutions for all car issues</p>
-                            <a class="text-secondary border-bottom" href="/services">Read More</a>
+                    <div class="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.3s">
+                        <div class="d-flex bg-light py-5 px-4">
+                            <i class="fa fa-users-cog fa-3x text-primary flex-shrink-0"></i>
+                            <div class="ps-4">
+                                <h5 class="mb-3">Expert Workers</h5>
+                                <p>Highly skilled technicians with extensive experience, providing precise, efficient, and reliable solutions for all car issues</p>
+                                <a class="text-secondary border-bottom" href="/services">Read More</a>
+                            </div>
                         </div>
                     </div>
-                </div>
-                <div class="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.5s">
-                    <div class="d-flex py-5 px-4">
-                        <i class="fa fa-tools fa-3x text-primary flex-shrink-0"></i>
-                        <div class="ps-4">
-                            <h5 class="mb-3">Modern Equipment</h5>
-                            <p>Utilizing state-of-the-art tools and technology to diagnose and repair vehicles, ensuring accuracy and superior results.</p>
-                            <a class="text-secondary border-bottom" href="/services">Read More</a>
+                    <div class="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.5s">
+                        <div class="d-flex py-5 px-4">
+                            <i class="fa fa-tools fa-3x text-primary flex-shrink-0"></i>
+                            <div class="ps-4">
+                                <h5 class="mb-3">Modern Equipment</h5>
+                                <p>Utilizing state-of-the-art tools and technology to diagnose and repair vehicles, ensuring accuracy and superior results.</p>
+                                <a class="text-secondary border-bottom" href="/services">Read More</a>
+                            </div>
                         </div>
                     </div>
                 </div>
             </div>
-        </div>
-    </div>
+        </div> -->
     <!-- Service End -->
 
 
@@ -110,7 +110,7 @@
                             style="object-fit: cover;" alt="">
                         <div class="position-absolute top-0 end-0 mt-n4 me-n4 py-4 px-5"
                             style="background: rgba(0, 0, 0, .08);">
-                            <h1 class="display-4 text-white mb-0">15 <span class="fs-4">Years</span></h1>
+                            <h1 class="display-4 text-white mb-0">45 <span class="fs-4">Years</span></h1>
                             <h4 class="text-white">Experience</h4>
                         </div>
                     </div>
@@ -119,7 +119,7 @@
                     <h6 class="text-primary text-uppercase">// About Us //</h6>
                     <h1 class="mb-4"><span class="text-primary">Delhi Motors</span> Is Your Trusted Partner In Automobile
                     </h1>
-                    <p class="mb-4">Delhi Motors has been providing top-tier automotive services for over many years. Our mission is to offer reliable, efficient, and affordable services to car owners across Delhi. We believe in building long-term relationships with our clients, and our commitment to quality has helped us earn the trust of thousands of satisfied customers.
+                    <p class="mb-4">Delhi Motors has been providing top-tier automotive services using mordern machine and equipment under guidance of high qualified service advisers for over many years. Our mission is to offer reliable, efficient, and affordable services in budget of car owners across Delhi and NCR. We believe in building long-term relationships with our clients and our commitment to quality has helped us earn the trust of thousands of satisfied customers.
                     </p>
                     <div class="row g-4 mb-3 pb-3">
                         <div class="col-12 wow fadeIn" data-wow-delay="0.1s">
@@ -173,23 +173,25 @@
             <div class="row g-4">
                 <div class="col-md-6 col-lg-3 text-center wow fadeIn" data-wow-delay="0.1s">
                     <i class="fa fa-check fa-2x text-white mb-3"></i>
-                    <h2 class="text-white mb-2" data-toggle="counter-up">6</h2>
+                    <h2 class="text-white mb-2" data-toggle="counter-up">45</h2>
                     <p class="text-white mb-0">Years Experience</p>
                 </div>
                 <div class="col-md-6 col-lg-3 text-center wow fadeIn" data-wow-delay="0.3s">
                     <i class="fa fa-users-cog fa-2x text-white mb-3"></i>
-                    <h2 class="text-white mb-2" data-toggle="counter-up">12</h2>
+                    <h2 class="text-white mb-2" data-toggle="counter-up">7</h2>
                     <p class="text-white mb-0">Expert Technicians</p>
                 </div>
                 <div class="col-md-6 col-lg-3 text-center wow fadeIn" data-wow-delay="0.5s">
                     <i class="fa fa-users fa-2x text-white mb-3"></i>
-                    <h2 class="text-white mb-2" data-toggle="counter-up">205</h2>
-                    <p class="text-white mb-0">Satisfied Clients</p>
+                    <h2 class="text-white mb-2" data-toggle="counter-up">12</h2>
+
+                    <p class="text-white mb-0">Supporting Staff</p>
                 </div>
                 <div class="col-md-6 col-lg-3 text-center wow fadeIn" data-wow-delay="0.7s">
                     <i class="fa fa-car fa-2x text-white mb-3"></i>
-                    <h2 class="text-white mb-2" data-toggle="counter-up">307</h2>
-                    <p class="text-white mb-0">Compleate Projects</p>
+                    <!-- <h2 class="text-white mb-2" data-toggle="counter-up">307</h2> -->
+                    <h2 class="text-white mb-2" >10000+</h2>
+                    <p class="text-white mb-0">Satisfied Clients</p>
                 </div>
             </div>
         </div>
@@ -222,8 +224,18 @@
                             <i class="fa fa-cog fa-2x me-3"></i>
                             <h4 class="m-0">Tyres & Wheels</h4>
                         </button>
-                        <button class="nav-link w-100 d-flex align-items-center text-start p-4 mb-0"
+                        <button class="nav-link w-100 d-flex align-items-center text-start p-4 mb-4"
                             data-bs-toggle="pill" data-bs-target="#tab-pane-4" type="button">
+                            <i class="fa fa-oil-can fa-2x me-3"></i>
+                            <h4 class="m-0">Paint and Dent Job</h4>
+                        </button>
+                        <button class="nav-link w-100 d-flex align-items-center text-start p-4 mb-4"
+                            data-bs-toggle="pill" data-bs-target="#tab-pane-5" type="button">
+                            <i class="fa fa-oil-can fa-2x me-3"></i>
+                            <h4 class="m-0">Car Insurance <br> New & Renewal</h4>
+                        </button>
+                        <button class="nav-link w-100 d-flex align-items-center text-start p-4 mb-0"
+                            data-bs-toggle="pill" data-bs-target="#tab-pane-6" type="button">
                             <i class="fa fa-oil-can fa-2x me-3"></i>
                             <h4 class="m-0">Car Accessories & Customization</h4>
                         </button>
@@ -298,6 +310,25 @@
                                     </div>
                                 </div>
                                 <div class="col-md-6">
+                                    <h3 class="mb-3">Paint And Dent Job</h3>
+                                    <p class="mb-4">Personalize your car with our wide range of accessories and customization options.
+                                        From seat covers to high-end audio systems, we help you enhance both comfort and style.</p>
+                                    <p><i class="fa fa-check text-success me-3"></i>Audio System Installation</p>
+                                    <p><i class="fa fa-check text-success me-3"></i>GPS & Navigation Systems</p>
+                                    <p><i class="fa fa-check text-success me-3"></i>Custom Seat Covers</p>
+                                    <!-- <a href="" class="btn btn-primary py-3 px-5 mt-3">Read More<i
+                                            class="fa fa-arrow-right ms-3"></i></a> -->
+                                </div>
+                            </div>
+                            <div class="tab-pane fade" id="tab-pane-5">
+                            <div class="row g-4">
+                                <div class="col-md-6" style="min-height: 350px;">
+                                    <div class="position-relative h-100">
+                                        <img class="position-absolute img-fluid w-100 h-100" src="img/service-4.jpg"
+                                            style="object-fit: cover;" alt="">
+                                    </div>
+                                </div>
+                                <div class="col-md-6">
                                     <h3 class="mb-3">Car Accessories & Customization</h3>
                                     <p class="mb-4">Personalize your car with our wide range of accessories and customization options.
                                         From seat covers to high-end audio systems, we help you enhance both comfort and style.</p>
@@ -308,6 +339,7 @@
                                             class="fa fa-arrow-right ms-3"></i></a> -->
                                 </div>
                             </div>
+                        </div>
                         </div>
                     </div>
                 </div>
@@ -342,12 +374,8 @@
                                         style="height: 55px;">
                                 </div>
                                 <div class="col-12 col-sm-6">
-                                    <select class="form-select border-0" style="height: 55px;">
-                                        <option selected>Select A Service</option>
-                                        <option value="1">Service 1</option>
-                                        <option value="2">Service 2</option>
-                                        <option value="3">Service 3</option>
-                                    </select>
+                                    <input type="contact" class="form-control border-0" placeholder="Contact Number"
+                                        style="height: 55px;">
                                 </div>
                                 <div class="col-12 col-sm-6">
                                     <div class="date" id="date1" data-target-input="nearest">

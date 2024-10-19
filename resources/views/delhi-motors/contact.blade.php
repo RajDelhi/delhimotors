@@ -35,6 +35,14 @@
             <div class="row g-4">
                 <div class="col-12">
                     <div class="row gy-4">
+                    <div class="col-md-4">
+                            <div class="bg-light d-flex flex-column justify-content-center p-4">
+                                <h5 class="text-uppercase">// Phone Numbers //</h5>
+                                <p class="m-0"><i class="fa fa-envelope-open text-primary me-2"></i>011-43554962
+,  09891611064
+</p>
+                            </div>
+                        </div>
                         <div class="col-md-4">
                             <div class="bg-light d-flex flex-column justify-content-center p-4">
                                 <h5 class="text-uppercase">// Booking //</h5>
@@ -47,12 +55,7 @@
                                 <p class="m-0"><i class="fa fa-envelope-open text-primary me-2"></i>info@delhimotorsindia.com</p>
                             </div>
                         </div>
-                        <div class="col-md-4">
-                            <div class="bg-light d-flex flex-column justify-content-center p-4">
-                                <h5 class="text-uppercase">// Technical //</h5>
-                                <p class="m-0"><i class="fa fa-envelope-open text-primary me-2"></i>tech@delhimotorsindia.com</p>
-                            </div>
-                        </div>
+
                     </div>
                 </div>
                 <div class="col-md-6 wow fadeIn" data-wow-delay="0.1s">
@@ -76,8 +79,8 @@
                                 </div>
                                 <div class="col-md-6">
                                     <div class="form-floating">
-                                        <input type="email" class="form-control" id="email" placeholder="Your Email">
-                                        <label for="email">Your Email</label>
+                                        <input type="email" class="form-control" id="contact" placeholder="Your Contact Number ">
+                                        <label for="email">Contact Number </label>
                                     </div>
                                 </div>
                                 <div class="col-12">
