@@ -71,16 +71,16 @@
                             style="object-fit: cover;" alt="">
                         <div class="position-absolute top-0 end-0 mt-n4 me-n4 py-4 px-5"
                             style="background: rgba(0, 0, 0, .08);">
-                            <h1 class="display-4 text-white mb-0">15 <span class="fs-4">Years</span></h1>
+                            <h1 class="display-4 text-white mb-0">45 <span class="fs-4">Years</span></h1>
                             <h4 class="text-white">Experience</h4>
                         </div>
                     </div>
                 </div>
                 <div class="col-lg-6">
                     <h6 class="text-primary text-uppercase">// About Delhi Motors //</h6>
-                    <h1 class="mb-4"><span class="text-primary"></span> Your Trusted Partner in Automobile</h1>
-                    <p class="mb-4">Delhi Motors has been providing top-tier automotive services for over many years. Our mission is to offer reliable, efficient, and affordable services to car owners across Delhi.
-                        We believe in building long-term relationships with our clients, and our commitment to quality has helped us earn the trust of thousands of satisfied customers.
+                    <h1 class="mb-4"><span class="text-primary">Delhi Motors</span> Is Your Trusted Partner In Automobile
+                    </h1>
+                    <p class="mb-4">Delhi Motors has been providing top-tier automotive services using mordern machine and equipment under guidance of high qualified service advisers for over many years. Our mission is to offer reliable, efficient, and affordable services in budget of car owners across Delhi and NCR. We believe in building long-term relationships with our clients and our commitment to quality has helped us earn the trust of thousands of satisfied customers.
                     </p>
                     <div class="row g-4 mb-3 pb-3">
                         <div class="col-12 wow fadeIn" data-wow-delay="0.1s">
@@ -120,7 +120,7 @@
                             </div>
                         </div>
                     </div>
-                    <!-- <a href="" class="btn btn-primary py-3 px-5">Read More<i class="fa fa-arrow-right ms-3"></i></a> -->
+                    <a href="/contact-us" class="btn btn-primary py-3 px-5">Book A Service<i class="fa fa-arrow-right ms-3"></i></a>
                 </div>
             </div>
         </div>

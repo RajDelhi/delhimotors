@@ -26,4 +26,8 @@ class HomeController extends Controller
         $data['page_title'] = "Get In Touch with Delhi Motors India";
         return view('delhi-motors/contact',$data);
     }
+
+    public function sendbookingemail(){
+        echo "<pre>"; print_r($_POST); die('asdfasdf');
+    }
 }
