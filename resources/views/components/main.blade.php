@@ -60,9 +60,9 @@
             <div class="col-lg-5 px-5 text-end">
                 <div class="h-100 d-inline-flex align-items-center py-3 me-4">
                     <small class="fa fa-phone-alt text-primary me-2"></small>
-                    <small>011-43554962</small>
+                    <small><a href="tel:011-43554962">011-43554962</a></small>
                     <!-- <small class="fa fa-phone-alt text-primary me-2"></small> -->
-                    <small> ,  09891611064</small>
+                    <small> ,  <a href="tel:09891611064">09891611064</a></small>
                 </div>
                 <div class="h-100 d-inline-flex align-items-center">
                     <a class="btn btn-sm-square bg-white text-primary me-1" href=""><i
@@ -117,8 +117,8 @@
                 <div class="col-lg-3 col-md-6">
                     <h4 class="text-light mb-4">Address</h4>
                     <p class="mb-2"><i class="fa fa-map-marker-alt me-3"></i>A-25, Block-B-1 Mohan Estate, New delhi 110044</p>
-                    <p class="mb-2"><i class="fa fa-phone-alt me-3"></i>+91 011-43554962</p>
-                    <p class="mb-2"><i class="fa fa-envelope me-3"></i>info@delhimotorsindia.com</p>
+                    <p class="mb-2"><i class="fa fa-phone-alt me-3"></i><a href="tel:011-43554962">011-43554962</a>, <a href="tel:09891611064">09891611064</a></p>
+                    <p class="mb-2"><i class="fa fa-envelope me-3"></i><a href="mailto:book@delhimotorsindia.com">book@delhimotorsindia.com</a></p>
                     <div class="d-flex pt-2">
                         <a class="btn btn-outline-light btn-social" href=""><i class="fab fa-twitter"></i></a>
                         <a class="btn btn-outline-light btn-social" href=""><i class="fab fa-facebook-f"></i></a>
@@ -141,7 +141,7 @@
                     <a class="btn btn-link" href="">Car Accessories & Customization</a>
                     <!-- <a class="btn btn-link" href="">Vacuam Cleaning</a> -->
                 </div>
-                <div class="col-lg-3 col-md-6">
+                <!-- <div class="col-lg-3 col-md-6">
                     <h4 class="text-light mb-4">Newsletter</h4>
                     <p>Subscribe to our Newsletter.</p>
                     <div class="position-relative mx-auto" style="max-width: 400px;">
@@ -149,7 +149,7 @@
                         <button type="button"
                             class="btn btn-primary py-2 position-absolute top-0 end-0 mt-2 me-2">SignUp</button>
                     </div>
-                </div>
+                </div> -->
             </div>
         </div>
         <div class="container">
