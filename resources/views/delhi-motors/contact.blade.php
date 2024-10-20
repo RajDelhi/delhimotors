@@ -49,12 +49,12 @@
                                 <p class="m-0"><i class="fa fa-envelope-open text-primary me-2"></i>book@delhimotorsindia.com</p>
                             </div>
                         </div>
-                        <div class="col-md-4">
+                        <!-- <div class="col-md-4">
                             <div class="bg-light d-flex flex-column justify-content-center p-4">
-                                <h5 class="text-uppercase">// General //</h5>
-                                <p class="m-0"><i class="fa fa-envelope-open text-primary me-2"></i>info@delhimotorsindia.com</p>
+                                <h5 class="text-uppercase">// Complaint //</h5>
+                                <p class="m-0"><i class="fa fa-envelope-open text-primary me-2"></i>complaint@delhimotorsindia.com</p>
                             </div>
-                        </div>
+                        </div> -->
 
                     </div>
                 </div>

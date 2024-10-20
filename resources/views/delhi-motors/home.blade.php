@@ -159,7 +159,7 @@
                             </div>
                         </div>
                     </div>
-                    <a href="/about" class="btn btn-primary py-3 px-5">Read More<i class="fa fa-arrow-right ms-3"></i></a>
+                    <a href="/about" class="btn btn-primary py-3 px-5">See More<i class="fa fa-arrow-right ms-3"></i></a>
                 </div>
             </div>
         </div>
@@ -311,16 +311,36 @@
                                 </div>
                                 <div class="col-md-6">
                                     <h3 class="mb-3">Paint And Dent Job</h3>
-                                    <p class="mb-4">Personalize your car with our wide range of accessories and customization options.
-                                        From seat covers to high-end audio systems, we help you enhance both comfort and style.</p>
-                                    <p><i class="fa fa-check text-success me-3"></i>Audio System Installation</p>
-                                    <p><i class="fa fa-check text-success me-3"></i>GPS & Navigation Systems</p>
-                                    <p><i class="fa fa-check text-success me-3"></i>Custom Seat Covers</p>
+                                    <p class="mb-4">A dent and paint job is a comprehensive process that not only fixes unsightly damage but also enhances the longevity and appearance of a vehicle.</p>
+                                    <p><i class="fa fa-check text-success me-3"></i>Aesthetic Improvement: Restores the vehicle's appearance, increasing its resale value.</p>
+                                    <p><i class="fa fa-check text-success me-3"></i>Protective Layer: New paint and clearcoat protect against rust and environmental damage.</p>
+                                    <p><i class="fa fa-check text-success me-3"></i>Cost-Effectiveness:Addressing minor damage early can prevent more extensive repairs later.</p>
                                     <!-- <a href="" class="btn btn-primary py-3 px-5 mt-3">Read More<i
                                             class="fa fa-arrow-right ms-3"></i></a> -->
                                 </div>
                             </div>
+                            </div>
+
                             <div class="tab-pane fade" id="tab-pane-5">
+                            <div class="row g-4">
+                                <div class="col-md-6" style="min-height: 350px;">
+                                    <div class="position-relative h-100">
+                                        <img class="position-absolute img-fluid w-100 h-100" src="img/service-4.jpg"
+                                            style="object-fit: cover;" alt="">
+                                    </div>
+                                </div>
+                                <div class="col-md-6">
+                                    <h3 class="mb-3">Car Insurance New & Renewal</h3>
+                                    <p class="mb-4">Secure affordable car insurance for new vehicles and renewals with ease. Enjoy comprehensive coverage, quick renewals, and exceptional customer support every step of the way.</p>
+                                    <p><i class="fa fa-check text-success me-3"></i>Approx 4 -10 Comparison Quotes</p>
+                                    <p><i class="fa fa-check text-success me-3"></i>Complementary 6 Services</p>
+                                    <p><i class="fa fa-check text-success me-3"></i>Supportive Personal Staff</p>
+                                    <!-- <a href="" class="btn btn-primary py-3 px-5 mt-3">Read More<i
+                                            class="fa fa-arrow-right ms-3"></i></a> -->
+                                </div>
+                            </div>
+                        </div>
+                        <div class="tab-pane fade" id="tab-pane-6">
                             <div class="row g-4">
                                 <div class="col-md-6" style="min-height: 350px;">
                                     <div class="position-relative h-100">
@@ -401,7 +421,7 @@
 
 
     <!-- Team Start -->
-    <div class="container-xxl py-5">
+    <!-- <div class="container-xxl py-5">
         <div class="container">
             <div class="text-center wow fadeInUp" data-wow-delay="0.1s">
                 <h6 class="text-primary text-uppercase">// Our Technicians //</h6>
@@ -474,7 +494,7 @@
                 </div>
             </div>
         </div>
-    </div>
+    </div> -->
     <!-- Team End -->
 
 
