@@ -38,21 +38,22 @@
                     <div class="col-md-4">
                             <div class="bg-light d-flex flex-column justify-content-center p-4">
                                 <h5 class="text-uppercase">// Phone Numbers //</h5>
-                                <p class="m-0"><i class="fa fa-envelope-open text-primary me-2"></i>011-43554962
-,  09891611064
+                                <p class="m-0"><i class="fa fa-envelope-open text-primary me-2"></i>
+                                <a href="tel:011-43554962">011-43554962</a>,
+                                <a href="tel:09891611064">09891611064</a>
 </p>
                             </div>
                         </div>
                         <div class="col-md-4">
                             <div class="bg-light d-flex flex-column justify-content-center p-4">
                                 <h5 class="text-uppercase">// Booking //</h5>
-                                <p class="m-0"><i class="fa fa-envelope-open text-primary me-2"></i>book@delhimotorsindia.com</p>
+                                <p class="m-0"><i class="fa fa-envelope-open text-primary me-2"></i><a href="mailto:book@delhimotorsindia.com">book@delhimotorsindia.com</a></p>
                             </div>
                         </div>
                         <div class="col-md-4">
                             <div class="bg-light d-flex flex-column justify-content-center p-4">
                                 <h5 class="text-uppercase">// Complaint //</h5>
-                                <p class="m-0"><i class="fa fa-envelope-open text-primary me-2"></i>complaint@delhimotorsindia.com</p>
+                                <p class="m-0"><i class="fa fa-envelope-open text-primary me-2"></i><a href="mailto:complaint@delhimotorsindia.com">complaint@delhimotorsindia.com</a></p>
                             </div>
                         </div>
 
