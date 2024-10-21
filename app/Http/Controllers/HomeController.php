@@ -34,14 +34,14 @@ class HomeController extends Controller
             $contact = !empty( $_POST['contact'])? $_POST['contact']:"";
             $subject = !empty( $_POST['subject'])? $_POST['subject']:"";
             $message = !empty( $_POST['message'])? $_POST['message']:"";
-            $message .= " <br> Contact detail of the personc is : ".$contact;
+            $message .= " <BR> Contact detail of the person is : ".$contact;
 
-            $to = "raj9983@gmail.com";
+            $to = "booking@delhimotorsindia.com";
 
 
 
             $headers = 'From: admin@delhimotorsindia.com' . "\r\n" .
-                'Reply-To: admin@elhimotorsindia.com' . "\r\n";
+                'Reply-To: admin@delhimotorsindia.com' . "\r\n";
 
 
             mail($to, $subject, $message, $headers);
