@@ -71,6 +71,7 @@
                     <div class="wow fadeInUp" data-wow-delay="0.2s">
                         <p class="mb-4">We’re Here to Help – Whether You Have a Question or Want to Schedule a Service..</p>
                         <form name="booking" id ="booking">
+                        <meta name="csrf-token" content="{{ csrf_token() }}">
                             <div class="row g-3">
                                 <div class="col-md-6">
                                     <div class="form-floating">
@@ -86,7 +87,7 @@
                                 </div>
                                 <div class="col-12">
                                     <div class="form-floating">
-                                        <input type="text" class="form-control" name = "Subject" id="subject" placeholder="Subject">
+                                        <input type="text" class="form-control" name = "subject" id="subject" placeholder="Subject">
                                         <label for="subject">Subject</label>
                                     </div>
                                 </div>
@@ -149,9 +150,14 @@
 			},
 			submitHandler: function (form) {
 				var formData = $("#booking").serialize();
+                $.ajaxSetup({
+                    headers: {
+                        'X-CSRF-TOKEN': $('meta[name="csrf-token"]').attr('content')
+                    }
+                });
 				$.ajax({
 					type: "POST",
-					url: "<?= url('') . 'book-service'; ?>",
+					url: "<?= url('/') . '/book-service'; ?>",
 					cache: false,
 					data: formData,
 					success: function (b) {
@@ -159,15 +165,18 @@
 						console.log(c);
 						if (c.status == 1) {
 							$('#booking').trigger("reset");
-							//alert(c.message);
-							window.location.href = c.URL;
+							alert(c.message);
+							//window.location.href = c.URL;
 						} else {
-							window.location.href = c.URL;
+							//window.location.href = c.URL;
 
 						}
 					},
 					error: function (b, d, c) {
-						alert("Error: There is some problem in processing. Please try again");
+                        console.log(b);
+                        console.log(d);
+                        console.log(c);
+                        alert("Error: There is some problem in processing. Please try againDDD");
 					},
 				});
 			}

@@ -28,6 +28,30 @@ class HomeController extends Controller
     }
 
     public function sendbookingemail(){
-        echo "<pre>"; print_r($_POST); die('asdfasdf');
+       try{
+            // send Email
+            $name = !empty( $_POST['name'])? $_POST['name']:"";
+            $contact = !empty( $_POST['contact'])? $_POST['contact']:"";
+            $subject = !empty( $_POST['subject'])? $_POST['subject']:"";
+            $message = !empty( $_POST['message'])? $_POST['message']:"";
+            $message .= " <br> Contact detail of the personc is : ".$contact;
+
+            $to = "raj9983@gmail.com";
+
+
+
+            $headers = 'From: admin@delhimotorsindia.com' . "\r\n" .
+                'Reply-To: admin@elhimotorsindia.com' . "\r\n";
+
+
+            mail($to, $subject, $message, $headers);
+            $status['status'] = true;
+            $status['message'] = "Thank you for contacting us, your request has been sent. our service advisor will contact you shortly.";
+            return  json_encode($status);
+       }catch(e){
+        //echo ""
+
+       }
+
     }
 }
