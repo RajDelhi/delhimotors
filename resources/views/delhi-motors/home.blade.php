@@ -47,14 +47,14 @@
                     </div>
                 </div>
             </div>
-            <button class="carousel-control-prev" type="button" data-bs-target="#header-carousel" data-bs-slide="prev">
+            <!-- <button class="carousel-control-prev" type="button" data-bs-target="#header-carousel" data-bs-slide="prev">
                 <span class="carousel-control-prev-icon" aria-hidden="true"></span>
                 <span class="visually-hidden">Previous</span>
             </button>
             <button class="carousel-control-next" type="button" data-bs-target="#header-carousel" data-bs-slide="next">
                 <span class="carousel-control-next-icon" aria-hidden="true"></span>
                 <span class="visually-hidden">Next</span>
-            </button>
+            </button> -->
         </div>
     </div>
     <!-- Carousel End -->
@@ -383,7 +383,8 @@
                     <div class="bg-primary h-100 d-flex flex-column justify-content-center text-center p-5 wow zoomIn"
                         data-wow-delay="0.6s">
                         <h1 class="text-white mb-4">Book For A Service</h1>
-                        <form>
+                        <form name="booking" id ="booking">
+                        <meta name="csrf-token" content="{{ csrf_token() }}">
                             <div class="row g-3">
                                 <div class="col-12 col-sm-6">
                                     <input type="text" class="form-control border-0" placeholder="Your Name"
@@ -550,3 +551,91 @@
     <!-- Testimonial End -->
 
 </x-main>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+<script src="https://cdn.jsdelivr.net/jquery.validation/1.16.0/jquery.validate.min.js"></script>
+<script src="https://cdn.jsdelivr.net/jquery.validation/1.16.0/additional-methods.min.js"></script>
+<script>
+	$().ready(function () {
+		$("#booking").validate({
+			rules: {
+				name: "required",
+				contact:  {
+					required: true,
+                    digits: true
+				},
+
+				subject: {
+					required: true
+				},
+				message: {
+					required: true
+
+				}
+
+			},
+
+			messages: {
+				name: " Please enter your  name",
+				last_name: " Please enter your last name",
+				contact: {
+					required: " Please enter phone number",
+					digits: " Please enter valid phone number"
+
+				},
+                subject: " Please enter reason for booking",
+				message: " Please enter message for team"
+
+
+			},
+			errorPlacement: function (error, element) {
+                var placement = $(element).data('error');
+				if (placement) {
+					$(placement).append(error)
+				} else if (element.attr("name") == "name") {
+					error.appendTo(".name_error_class");
+				}
+                else if (element.attr("name") == "contact") {
+					error.appendTo(".contact_error_class");
+				}
+                else if (element.attr("name") == "subject") {
+					error.appendTo(".subject_error_class");
+				}
+                else if (element.attr("name") == "message") {
+					error.appendTo(".message_error_class");
+				} else {
+					error.insertAfter(element);
+				}
+			},
+			submitHandler: function (form) {
+				var formData = $("#booking").serialize();
+                $.ajaxSetup({
+                    headers: {
+                        'X-CSRF-TOKEN': $('meta[name="csrf-token"]').attr('content')
+                    }
+                });
+				$.ajax({
+					type: "POST",
+					url: "<?= url('/') . '/book-service'; ?>",
+					cache: false,
+					data: formData,
+					success: function (b) {
+						var c = $.parseJSON(b);
+						console.log(c);
+						if (c.status == 1) {
+							$('#booking').trigger("reset");
+							alert(c.message);
+
+						} else {
+
+
+						}
+					},
+					error: function (b, d, c) {
+                        alert("Error: There is some problem in processing. Please try again");
+					},
+				});
+			}
+		});
+
+	});
+</script>

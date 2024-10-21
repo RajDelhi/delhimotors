@@ -76,7 +76,7 @@
                         <form name="booking" id ="booking">
                         <meta name="csrf-token" content="{{ csrf_token() }}">
                             <div class="row g-3">
-                                <div class="col-md-6">
+                                <div class="col-md-12">
                                     <div class="form-floating">
                                         <input type="text" class="form-control" name = "name" id="name" placeholder="Your Name" maxlength="50">
                                         <label for="name">Your Name</label>
@@ -90,11 +90,11 @@
                                         <spam class = "contact_error_class"></spam>
                                     </div>
                                 </div>
-                                <div class="col-12">
+                                <div class="col-6">
                                     <div class="form-floating">
-                                        <input type="text" class="form-control" name = "subject" id="subject" placeholder="Subject"  maxlength="200">
-                                        <label for="subject">Subject</label>
-                                        <spam class = "subject_error_class"></spam>
+                                        <input type="text"class="form-control" name = "bookingdate" id="bookingdate" placeholder="Booking date"   >
+                                        <label for="subject">Booking date</label>
+                                        <spam class = "bookingdate_error_class"></spam>
                                     </div>
                                 </div>
                                 <div class="col-12">
@@ -122,8 +122,16 @@
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
 <script src="https://cdn.jsdelivr.net/jquery.validation/1.16.0/jquery.validate.min.js"></script>
 <script src="https://cdn.jsdelivr.net/jquery.validation/1.16.0/additional-methods.min.js"></script>
+<link rel="stylesheet" href="https://code.jquery.com/ui/1.14.0/themes/base/jquery-ui.css">
+<script src="https://code.jquery.com/ui/1.14.0/jquery-ui.js"></script>
 <script>
 	$().ready(function () {
+        $( "#bookingdate" ).datepicker({
+            dateFormat: 'dd/mm/yy',
+            minDate: 0
+        });
+ ;
+
 		$("#booking").validate({
 			rules: {
 				name: "required",
@@ -132,7 +140,7 @@
                     digits: true
 				},
 
-				subject: {
+				bookingdate: {
 					required: true
 				},
 				message: {
@@ -150,7 +158,7 @@
 					digits: " Please enter valid phone number"
 
 				},
-                subject: " Please enter reason for booking",
+                bookingdate: " Please select booking date",
 				message: " Please enter message for team"
 
 
@@ -165,8 +173,8 @@
                 else if (element.attr("name") == "contact") {
 					error.appendTo(".contact_error_class");
 				}
-                else if (element.attr("name") == "subject") {
-					error.appendTo(".subject_error_class");
+                else if (element.attr("name") == "bookingdate") {
+					error.appendTo(".bookingdate_error_class");
 				}
                 else if (element.attr("name") == "message") {
 					error.appendTo(".message_error_class");
