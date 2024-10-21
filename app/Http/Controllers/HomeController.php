@@ -41,7 +41,7 @@ class HomeController extends Controller
             $customer_message = !empty($_POST['message']) ? $_POST['message'] : "";
 
             $subject = "New message for booking on {$bookingdate} by {$name}";
-            $message = "Following is the customer requrest \n";
+            $message = "Following is the customer requrest : \n";
             $message .= $customer_message;
 
             $message .= "\n\nCustomer Name : " . $name;

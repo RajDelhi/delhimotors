@@ -1,3 +1,6 @@
+<style>
+    .error {color: white; }
+</style>
 <x-main>
      <x-slot:title>
         {{ $page_title }}
@@ -386,27 +389,25 @@
                         <form name="booking" id ="booking">
                         <meta name="csrf-token" content="{{ csrf_token() }}">
                             <div class="row g-3">
-                                <div class="col-12 col-sm-6">
-                                    <input type="text" class="form-control border-0" placeholder="Your Name"
+                                <div class="col-12 col-sm-12">
+                                    <input type="text" class="form-control border-0" name = "name" id="name" placeholder="Your Name" maxlength="50"
                                         style="height: 55px;">
+                                        <spam class = "name_error_class"></spam>
+                                </div>
+
+                                <div class="col-12 col-sm-6">
+                                    <input type="contact" class="form-control border-0" name = "contact" id="contact" placeholder="Your Contact Number "  maxlength="12"
+                                        style="height: 55px;">
+                                        <spam class = "contact_error_class"></spam>
                                 </div>
                                 <div class="col-12 col-sm-6">
-                                    <input type="email" class="form-control border-0" placeholder="Your Email"
+                                    <input type="contact" class="form-control border-0" name = "bookingdate" id="bookingdate" placeholder="Booking date"
                                         style="height: 55px;">
-                                </div>
-                                <div class="col-12 col-sm-6">
-                                    <input type="contact" class="form-control border-0" placeholder="Contact Number"
-                                        style="height: 55px;">
-                                </div>
-                                <div class="col-12 col-sm-6">
-                                    <div class="date" id="date1" data-target-input="nearest">
-                                        <input type="text" class="form-control border-0 datetimepicker-input"
-                                            placeholder="Service Date" data-target="#date1" data-toggle="datetimepicker"
-                                            style="height: 55px;">
-                                    </div>
+                                        <spam class = "bookingdate_error_class"></spam>
                                 </div>
                                 <div class="col-12">
-                                    <textarea class="form-control border-0" placeholder="Special Request"></textarea>
+                                    <textarea class="form-control border-0" placeholder="Leave a message here"></textarea>
+                                    <spam class = "message_error_class"></spam>
                                 </div>
                                 <div class="col-12">
                                     <button class="btn btn-secondary w-100 py-3" type="submit">Book Now</button>
@@ -554,8 +555,16 @@
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
 <script src="https://cdn.jsdelivr.net/jquery.validation/1.16.0/jquery.validate.min.js"></script>
 <script src="https://cdn.jsdelivr.net/jquery.validation/1.16.0/additional-methods.min.js"></script>
+<link rel="stylesheet" href="https://code.jquery.com/ui/1.14.0/themes/base/jquery-ui.css">
+<script src="https://code.jquery.com/ui/1.14.0/jquery-ui.js"></script>
 <script>
 	$().ready(function () {
+        $( "#bookingdate" ).datepicker({
+            dateFormat: 'dd/mm/yy',
+            minDate: 0
+        });
+ ;
+
 		$("#booking").validate({
 			rules: {
 				name: "required",
@@ -564,7 +573,7 @@
                     digits: true
 				},
 
-				subject: {
+				bookingdate: {
 					required: true
 				},
 				message: {
@@ -582,30 +591,30 @@
 					digits: " Please enter valid phone number"
 
 				},
-                subject: " Please enter reason for booking",
+                bookingdate: " Please select booking date",
 				message: " Please enter message for team"
 
 
 			},
-			errorPlacement: function (error, element) {
-                var placement = $(element).data('error');
-				if (placement) {
-					$(placement).append(error)
-				} else if (element.attr("name") == "name") {
-					error.appendTo(".name_error_class");
-				}
-                else if (element.attr("name") == "contact") {
-					error.appendTo(".contact_error_class");
-				}
-                else if (element.attr("name") == "subject") {
-					error.appendTo(".subject_error_class");
-				}
-                else if (element.attr("name") == "message") {
-					error.appendTo(".message_error_class");
-				} else {
-					error.insertAfter(element);
-				}
-			},
+			// errorPlacement: function (error, element) {
+            //     var placement = $(element).data('error');
+			// 	if (placement) {
+			// 		$(placement).append(error)
+			// 	} else if (element.attr("name") == "name") {
+			// 		error.appendTo(".name_error_class");
+			// 	}
+            //     else if (element.attr("name") == "contact") {
+			// 		error.appendTo(".contact_error_class");
+			// 	}
+            //     else if (element.attr("name") == "bookingdate") {
+			// 		error.appendTo(".bookingdate_error_class");
+			// 	}
+            //     else if (element.attr("name") == "message") {
+			// 		error.appendTo(".message_error_class");
+			// 	} else {
+			// 		error.insertAfter(element);
+			// 	}
+			// },
 			submitHandler: function (form) {
 				var formData = $("#booking").serialize();
                 $.ajaxSetup({
