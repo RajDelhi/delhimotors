@@ -406,7 +406,7 @@
                                         <spam class = "bookingdate_error_class"></spam>
                                 </div>
                                 <div class="col-12">
-                                    <textarea class="form-control border-0" placeholder="Leave a message here"></textarea>
+                                    <textarea class="form-control border-0" name = "message" id="message" placeholder="Leave a message here"></textarea>
                                     <spam class = "message_error_class"></spam>
                                 </div>
                                 <div class="col-12">
