@@ -34,9 +34,9 @@ class HomeController extends Controller
             $contact = !empty( $_POST['contact'])? $_POST['contact']:"";
             $subject = !empty( $_POST['subject'])? $_POST['subject']:"";
             $message = !empty( $_POST['message'])? $_POST['message']:"";
-            $message .= " <BR> Contact detail of the person is : ".$contact;
+            $message .= " \n Contact detail of the person is : ".$contact;
 
-            $to = "booking@delhimotorsindia.com";
+            $to =   "booking@delhimotorsindia.com";
 
 
 
