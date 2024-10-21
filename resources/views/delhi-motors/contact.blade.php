@@ -1,3 +1,6 @@
+<style>
+    .error {color: #f2545b; }
+</style>
 <x-main>
     <!-- Carousel Start -->
 
@@ -75,27 +78,31 @@
                             <div class="row g-3">
                                 <div class="col-md-6">
                                     <div class="form-floating">
-                                        <input type="text" class="form-control" name = "name" id="name" placeholder="Your Name">
+                                        <input type="text" class="form-control" name = "name" id="name" placeholder="Your Name" maxlength="50">
                                         <label for="name">Your Name</label>
+                                        <spam class = "name_error_class"></spam>
                                     </div>
                                 </div>
                                 <div class="col-md-6">
                                     <div class="form-floating">
-                                        <input type="text" class="form-control" name = "contact" id="contact" placeholder="Your Contact Number ">
+                                        <input type="text" class="form-control" name = "contact" id="contact" placeholder="Your Contact Number "  maxlength="12">
                                         <label for="contact">Contact Number </label>
+                                        <spam class = "contact_error_class"></spam>
                                     </div>
                                 </div>
                                 <div class="col-12">
                                     <div class="form-floating">
-                                        <input type="text" class="form-control" name = "subject" id="subject" placeholder="Subject">
+                                        <input type="text" class="form-control" name = "subject" id="subject" placeholder="Subject"  maxlength="200">
                                         <label for="subject">Subject</label>
+                                        <spam class = "subject_error_class"></spam>
                                     </div>
                                 </div>
                                 <div class="col-12">
                                     <div class="form-floating">
                                         <textarea class="form-control" name = "message" placeholder="Leave a message here" id="message"
-                                            style="height: 100px"></textarea>
+                                            style="height: 100px"  maxlength="400"></textarea>
                                         <label for="message">Message</label>
+                                        <spam class = "message_error_class"></spam>
                                     </div>
                                 </div>
                                 <div class="col-12">
@@ -120,9 +127,12 @@
 		$("#booking").validate({
 			rules: {
 				name: "required",
-				contact: "required",
+				contact:  {
+					required: true,
+                    digits: true
+				},
 
-				Subject: {
+				subject: {
 					required: true
 				},
 				message: {
@@ -136,17 +146,33 @@
 				name: " Please enter your  name",
 				last_name: " Please enter your last name",
 				contact: {
-					required: " Please enter phone number"
+					required: " Please enter phone number",
+					digits: " Please enter valid phone number"
 
 				},
-                Subject: " Please enter reason for booking",
+                subject: " Please enter reason for booking",
 				message: " Please enter message for team"
 
 
 			},
 			errorPlacement: function (error, element) {
-
-				error.insertAfter(element);
+                var placement = $(element).data('error');
+				if (placement) {
+					$(placement).append(error)
+				} else if (element.attr("name") == "name") {
+					error.appendTo(".name_error_class");
+				}
+                else if (element.attr("name") == "contact") {
+					error.appendTo(".contact_error_class");
+				}
+                else if (element.attr("name") == "subject") {
+					error.appendTo(".subject_error_class");
+				}
+                else if (element.attr("name") == "message") {
+					error.appendTo(".message_error_class");
+				} else {
+					error.insertAfter(element);
+				}
 			},
 			submitHandler: function (form) {
 				var formData = $("#booking").serialize();
@@ -166,17 +192,14 @@
 						if (c.status == 1) {
 							$('#booking').trigger("reset");
 							alert(c.message);
-							//window.location.href = c.URL;
+
 						} else {
-							//window.location.href = c.URL;
+
 
 						}
 					},
 					error: function (b, d, c) {
-                        console.log(b);
-                        console.log(d);
-                        console.log(c);
-                        alert("Error: There is some problem in processing. Please try againDDD");
+                        alert("Error: There is some problem in processing. Please try again");
 					},
 				});
 			}
