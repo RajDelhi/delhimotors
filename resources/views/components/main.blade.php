@@ -173,7 +173,7 @@
     </div>
     <!-- Footer End -->
     <!-- Whatsapp code  -->
-    <a href="https://api.whatsapp.com/send?phone=9891611064&text= Welcome to Delhi Motors." class="float" target="_blank">
+    <a href="https://api.whatsapp.com/send?phone=9891611064" class="float" target="_blank">
 
     <i class="fab fa-whatsapp my-float "></i>
     </a>
