@@ -48,7 +48,7 @@ class HomeController extends Controller
             $message .= "\nCustomer Contact Number : " . $contact;
             $message .= "\nBooking request date  : " . $bookingdate;
 
-            $to = "booking@delhimotorsindia.com";
+            $to = "book@delhimotorsindia.com";
 
 
 

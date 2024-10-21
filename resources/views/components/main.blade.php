@@ -119,12 +119,12 @@
                     <p class="mb-2"><i class="fa fa-map-marker-alt me-3"></i>A-25, Block-B-1 Mohan Estate, New delhi 110044</p>
                     <p class="mb-2"><i class="fa fa-phone-alt me-3"></i><a href="tel:011-43554962">011-43554962</a>, <a href="tel:09891611064">09891611064</a></p>
                     <p class="mb-2"><i class="fa fa-envelope me-3"></i><a href="mailto:book@delhimotorsindia.com">book@delhimotorsindia.com</a></p>
-                    <div class="d-flex pt-2">
+                    <!-- <div class="d-flex pt-2">
                         <a class="btn btn-outline-light btn-social" href=""><i class="fab fa-twitter"></i></a>
                         <a class="btn btn-outline-light btn-social" href=""><i class="fab fa-facebook-f"></i></a>
                         <a class="btn btn-outline-light btn-social" href=""><i class="fab fa-youtube"></i></a>
                         <a class="btn btn-outline-light btn-social" href=""><i class="fab fa-linkedin-in"></i></a>
-                    </div>
+                    </div> -->
                 </div>
                 <div class="col-lg-3 col-md-6">
                     <h4 class="text-light mb-4">Opening Hours</h4>
@@ -159,20 +159,46 @@
                         &copy; Copyright 2024 <a class="border-bottom" href="{{url('')}}">Delhi Motors</a>.  All Right Reserved.
 
                     </div>
-                    <div class="col-md-6 text-center text-md-end">
+                    <!-- <div class="col-md-6 text-center text-md-end">
                         <div class="footer-menu">
                             <a href="#">Home</a>
                             <a href="#">Cookies</a>
                             <a href="#">Help</a>
                             <a href="#">FQAs</a>
                         </div>
-                    </div>
+                    </div> -->
                 </div>
             </div>
         </div>
     </div>
     <!-- Footer End -->
+    <!-- Whatsapp code  -->
+    <a href="https://api.whatsapp.com/send?phone=9891611064&text= Welcome to Delhi Motors." class="float" target="_blank">
 
+    <i class="fab fa-whatsapp my-float "></i>
+    </a>
+    <style>
+        .float{
+        position:fixed;
+        width:60px;
+        height:60px;
+        bottom:120px;
+        right:40px;
+        background-color:#25d366;
+        color:#FFF;
+        border-radius:50px;
+        text-align:center;
+        font-size:30px;
+        box-shadow: 2px 2px 3px #999;
+        z-index:100;
+    }
+
+
+    .my-float{
+        margin-top:16px;
+    }
+    </style>
+<!-- Whatsapp code finish here  -->
 
     <!-- Back to Top -->
     <a href="#" class="btn btn-lg btn-primary btn-lg-square back-to-top"><i class="bi bi-arrow-up"></i></a>
