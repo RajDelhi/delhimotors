@@ -92,8 +92,8 @@
                                 </div>
                                 <div class="col-6">
                                     <div class="form-floating">
-                                        <input type="text"class="form-control" name = "bookingdate" id="bookingdate" placeholder="Booking date"   >
-                                        <label for="subject">Booking date</label>
+                                        <input type="text"class="form-control" name = "bookingdate" id="bookingdate" placeholder="Book a date for service"   >
+                                        <label for="subject">Book a date for service</label>
                                         <spam class = "bookingdate_error_class"></spam>
                                     </div>
                                 </div>
