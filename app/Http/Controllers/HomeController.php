@@ -44,9 +44,9 @@ class HomeController extends Controller
             $message = "Following is the customer requrest \n";
             $message .= $customer_message;
 
-            $message .= "\n Customer Name : " . $name;
-            $message .= "\n Customer Contact Number : " . $contact;
-            $message .= "\n Booking request date  : " . $bookingdate;
+            $message .= "\n\nCustomer Name : " . $name;
+            $message .= "\nCustomer Contact Number : " . $contact;
+            $message .= "\nBooking request date  : " . $bookingdate;
 
             $to = "booking@delhimotorsindia.com";
 
