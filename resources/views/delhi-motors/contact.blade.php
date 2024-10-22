@@ -11,7 +11,7 @@
 
 
     <!-- Page Header Start -->
-    <div class="container-fluid page-header mb-5 p-0" style="background-image: url(img/carousel-bg-1.jpg);">
+    <!-- <div class="container-fluid page-header mb-5 p-0" style="background-image: url(img/carousel-bg-1.jpg);">
         <div class="container-fluid page-header-inner py-5">
             <div class="container text-center">
                 <h1 class="display-3 text-white mb-3 animated slideInDown">Contact</h1>
@@ -24,7 +24,7 @@
                 </nav>
             </div>
         </div>
-    </div>
+    </div> -->
     <!-- Page Header End -->
 
 
@@ -200,7 +200,7 @@
 						if (c.status == 1) {
 							$('#booking').trigger("reset");
 							alert(c.message);
-
+                            window.location.href = "<?= url('/') ; ?>";
 						} else {
 
 
