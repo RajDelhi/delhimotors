@@ -198,7 +198,7 @@
                         <div class="bg-light text-center p-4">
                         <h4 class="fw-bold mb-0">Mr. Jaikishan Kaushik</h4>
                             <h5 class="fw-bold mb-0">General Manager</h5>
-                            <small>Experience: 46 Year Experience in Multy Brand work shop </small>
+                            <small>Experience: 46 Year Experience in Multy Brand work shop as a consultant and customer coordinator </small>
                             <small> </small>
                         </div>
                     </div>
@@ -217,7 +217,7 @@
                         <div class="bg-light text-center p-4">
                             <h4 class="fw-bold mb-0">Mr. Sarvender Singh Negi</h4>
                             <h5 class="fw-bold mb-0">Work Shop Manager </h5>
-                            <small>Senior Advisor : 23 Years Vide working experience with  BMW, Ford, Nissan, Toyota, Mahindra </small>
+                            <small>Senior Workshop Manager : 23 Years wide working experience with  BMW, Ford, Nissan, Toyota, Mahindra </small>
                              <small> </small>
                         </div>
                     </div>
