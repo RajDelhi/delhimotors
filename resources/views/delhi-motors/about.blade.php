@@ -179,7 +179,7 @@
                         <div class="bg-light text-center p-4">
                             <h4 class="fw-bold mb-0">Mr. Kirit Singh</h4>
                             <h5 class="fw-bold mb-0">Senior Consultant</h5>
-                            <small>Mechanical Engineering from BITS</small>
+                            <small>Mechanical Engineering from BITS</small><br>
                             <small>Experience :  4 (1972-1976) Years Auto Repair Experience from USA and in India from 1977 onword </small>
                         </div>
                     </div>
