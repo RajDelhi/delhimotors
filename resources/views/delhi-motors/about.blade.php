@@ -199,6 +199,7 @@
                         <h4 class="fw-bold mb-0">Mr. Jaikishan Kaushik</h4>
                             <h5 class="fw-bold mb-0">General Manager</h5>
                             <small>Experience: 46 Year Experience in Multy Brand work shop </small>
+                            <small> </small>
                         </div>
                     </div>
                 </div>
@@ -217,6 +218,7 @@
                             <h4 class="fw-bold mb-0">Mr. Sarvender Singh Negi</h4>
                             <h5 class="fw-bold mb-0">Work Shop Manager </h5>
                             <small>Senior Advisor : 23 Years Vide working experience with  BMW, Ford, Nissan, Toyota, Mahindra </small>
+                             <small> </small>
                         </div>
                     </div>
                 </div>
