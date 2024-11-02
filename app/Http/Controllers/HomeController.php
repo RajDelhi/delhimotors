@@ -9,25 +9,25 @@ class HomeController extends Controller
 
     public function index()
     {
-        $data['page_title'] = "Reliable and Professional Automobile Services in Delhi";
+        $data['page_title'] = "Authorized Bosch Service Center in Delhi NCR";
         return view('delhi-motors/home', $data);
     }
 
     public function about()
     {
-        $data['page_title'] = "About Delhi Motors India";
+        $data['page_title'] = "Bosch Car Service Center in Badarpur";
         return view('delhi-motors/about', $data);
     }
 
     public function services()
     {
-        $data['page_title'] = "Our Expert Automobile Services";
+        $data['page_title'] = "Bosch Car Scanning in Delhi NCR";
         return view('delhi-motors/services', $data);
     }
 
     public function contact()
     {
-        $data['page_title'] = "Get In Touch with Delhi Motors India";
+        $data['page_title'] = "Bosch Car Service Center in Badarpur";
         return view('delhi-motors/contact', $data);
     }
 
