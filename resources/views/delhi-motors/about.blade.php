@@ -177,9 +177,10 @@
                             </div> -->
                         </div>
                         <div class="bg-light text-center p-4">
-                            <h4 class="fw-bold mb-0">Mr. Kirit singh</h4>
-                            <h5 class="fw-bold mb-0">General Manager</h5>
-                            <small>Experience: 46 Years of Experience</small>
+                            <h4 class="fw-bold mb-0">Mr. Kirit Singh</h4>
+                            <h5 class="fw-bold mb-0">Senior Consultant</h5>
+                            <small>Mechanical Engineering from BITS</small>
+                            <small>Experience :  4 (1972-1976) Years Auto Repair Experience from USA and in India from 1977 onword </small>
                         </div>
                     </div>
                 </div>
@@ -195,9 +196,9 @@
                             </div> -->
                         </div>
                         <div class="bg-light text-center p-4">
-                        <h4 class="fw-bold mb-0">Mr. Prem Pal Singh</h4>
-                            <h5 class="fw-bold mb-0">Manager</h5>
-                            <small>Experience: 32 Years of Experience</small>
+                        <h4 class="fw-bold mb-0">Mr. Jaikishan Kaushik</h4>
+                            <h5 class="fw-bold mb-0">General Manager</h5>
+                            <small>Experience: 46 Year Experience in Multy Brand work shop </small>
                         </div>
                     </div>
                 </div>
@@ -213,9 +214,9 @@
                             </div> -->
                         </div>
                         <div class="bg-light text-center p-4">
-                            <h4 class="fw-bold mb-0">Mr. Jai Krishan</h4>
-                            <h5 class="fw-bold mb-0">Work Shop Manager</h5>
-                            <small>Experience: 23 Years of Experience</small>
+                            <h4 class="fw-bold mb-0">Mr. Sarvender Singh Negi</h4>
+                            <h5 class="fw-bold mb-0">Work Shop Manager </h5>
+                            <small>Senior Advisor : 23 Years Vide working experience with  BMW, Ford, Nissan, Toyota, Mahindra </small>
                         </div>
                     </div>
                 </div>
