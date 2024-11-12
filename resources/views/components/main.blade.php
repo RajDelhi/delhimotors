@@ -3,7 +3,7 @@
 
 <head>
     <meta charset="utf-8">
-    <title>{{'Delhi Motors | '.$title}}</title>
+    <title>{{$title}}</title>
     <meta content="width=device-width, initial-scale=1.0" name="viewport">
     <meta content="{{$p_keyword}}" name="keywords">
     <meta content="{{$s_keyword}}" name="keywords">
