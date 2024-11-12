@@ -6,7 +6,7 @@
     <title>{{$title}}</title>
     <meta content="width=device-width, initial-scale=1.0" name="viewport">
     <meta content="{{$p_keyword}}" name="keywords">
-    <meta content="{{$s_keyword}}" name="keywords">
+
     <meta content="{{$description}}" name="description">
 
     <!-- Favicon -->
