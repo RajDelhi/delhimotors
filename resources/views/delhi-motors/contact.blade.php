@@ -6,7 +6,19 @@
 
     <x-slot:title>
         {{ $page_title }}
-    </x-slot:title>
+     </x-slot:title>
+
+     <x-slot:p_keyword>
+        {{ $p_keyword }}
+     </x-slot:p_keyword>
+
+     <x-slot:s_keyword>
+        {{ $s_keyword }}
+     </x-slot:s_keyword>
+
+     <x-slot:description>
+        {{ $description }}
+     </x-slot:description>
 
 
 

@@ -1,8 +1,20 @@
 <x-main>
 
-    <x-slot:title>
+       <x-slot:title>
         {{ $page_title }}
      </x-slot:title>
+
+     <x-slot:p_keyword>
+        {{ $p_keyword }}
+     </x-slot:p_keyword>
+
+     <x-slot:s_keyword>
+        {{ $s_keyword }}
+     </x-slot:s_keyword>
+
+     <x-slot:description>
+        {{ $description }}
+     </x-slot:description>
     <!-- Page Header Start -->
     <div class="container-fluid page-header mb-5 p-0" style="background-image: url(img/carousel-bg-1.jpg);">
         <div class="container-fluid page-header-inner py-5">
