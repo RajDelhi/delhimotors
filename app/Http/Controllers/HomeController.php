@@ -11,8 +11,9 @@ class HomeController extends Controller
     {
         $data['page_title'] = "Luxury Car Repair | Luxury Car Service Center in Delhi NCR, Premium Car Repair";
         $data['description'] = "Luxury car repair and Car service center in Delhi NCR. Visit Delhi Motors to get the best luxury car service or premium car repair and maintenance services in Delhi.";
-        $data['p_keyword'] = "Luxury Car Repair | Luxury Car Service Center in Delhi NCR, Premium Car Repair";
-        $data['s_keyword'] = "Luxury Car Repair | Luxury Car Service Center in Delhi NCR, Premium Car Repair";
+        $data['p_keyword'] = "Luxury Car Repair, Luxury Car Service Center in Delhi NCR, Car Service Center in Delhi NCR, best luxury car service, premium car repair
+";
+        $data['s_keyword'] = "";
         return view('delhi-motors/home', $data);
     }
 
@@ -21,7 +22,7 @@ class HomeController extends Controller
         $data['page_title'] = "Luxury Car Repair | Luxury Car Service Center in Delhi NCR, Premium Car Repair";
         $data['description'] = "Luxury car repair and Car service center in Delhi NCR. Visit Delhi Motors to get the best luxury car service or premium car repair and maintenance services in Delhi.";
         $data['p_keyword'] = "Luxury Car Repair | Luxury Car Service Center in Delhi NCR, Premium Car Repair";
-        $data['s_keyword'] = "Luxury Car Repair | Luxury Car Service Center in Delhi NCR, Premium Car Repair";
+        $data['s_keyword'] = "";
         return view('delhi-motors/about', $data);
     }
 
@@ -30,7 +31,7 @@ class HomeController extends Controller
         $data['page_title'] = "Luxury Car Repair | Luxury Car Service Center in Delhi NCR, Premium Car Repair";
         $data['description'] = "Luxury car repair and Car service center in Delhi NCR. Visit Delhi Motors to get the best luxury car service or premium car repair and maintenance services in Delhi.";
         $data['p_keyword'] = "Luxury Car Repair | Luxury Car Service Center in Delhi NCR, Premium Car Repair";
-        $data['s_keyword'] = "Luxury Car Repair | Luxury Car Service Center in Delhi NCR, Premium Car Repair";
+        $data['s_keyword'] = "";
         return view('delhi-motors/services', $data);
     }
 
@@ -38,8 +39,8 @@ class HomeController extends Controller
     {
         $data['page_title'] = "Delhi Motors - Luxury Car Service Center in Delhi NCR, Premium Car Repair";
         $data['description'] = "We are located in Badarpur, New Delhi, Delhi Workshop Hours DAILY: 09:30AM – 06:30PM 7days Open Address A-25, Block-B-1 Mohan Estate, New delhi 110044 Phone Numbers +91 98916 11064";
-        $data['p_keyword'] = "Luxury Car Service Center in Delhi NCR";
-        $data['s_keyword'] = "Car Service Center in Delhi NCR";
+        $data['p_keyword'] = "Luxury Car Service Center in Delhi NCR, Car Service Center in Delhi NCR";
+        $data['s_keyword'] = "";
         return view('delhi-motors/contact', $data);
     }
 
