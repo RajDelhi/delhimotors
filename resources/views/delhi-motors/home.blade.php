@@ -213,6 +213,94 @@
     </div>
     <!-- Fact End -->
 
+     <!-- Team Start -->
+    <div class="container-xxl py-5">
+        <div class="container">
+            <div class="text-center wow fadeInUp" data-wow-delay="0.1s">
+                <h6 class="text-primary text-uppercase">// Our Technicians //</h6>
+                <h1 class="mb-5">Our Expert Technicians</h1>
+            </div>
+            <div class="row g-4">
+                 <div class="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.1s">
+                    <div class="team-item">
+                        <div class="position-relative overflow-hidden">
+                            <img class="img-fluid" src="img/team-3.jpg" alt="">
+                            <!-- <div class="team-overlay position-absolute start-0 top-0 w-100 h-100">
+                                <a class="btn btn-square mx-1" href=""><i class="fab fa-facebook-f"></i></a>
+                                <a class="btn btn-square mx-1" href=""><i class="fab fa-twitter"></i></a>
+                                <a class="btn btn-square mx-1" href=""><i class="fab fa-instagram"></i></a>
+                            </div> -->
+                        </div>
+                        <div class="bg-light text-center p-4">
+                            <h4 class="fw-bold mb-0">Mr. Kirit Singh</h4>
+                            <h5 class="fw-bold mb-0">Senior Consultant</h5>
+                            <small>Mechanical Engineering from BITS</small><br>
+                            <small>Experience :  4 (1972-1976) Years Auto Repair Experience from USA and in India from 1977 onword </small>
+                        </div>
+                    </div>
+                </div>
+                <!-- <div class="col-lg-3 col-md-6 wow fadeInUp" data-wow-delay="0.1s"> -->
+                <div class="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.1s">
+                    <div class="team-item">
+                        <div class="position-relative overflow-hidden">
+                            <img class="img-fluid" src="img/team-1.jpg" alt="">
+                            <!-- <div class="team-overlay position-absolute start-0 top-0 w-100 h-100">
+                                <a class="btn btn-square mx-1" href=""><i class="fab fa-facebook-f"></i></a>
+                                <a class="btn btn-square mx-1" href=""><i class="fab fa-twitter"></i></a>
+                                <a class="btn btn-square mx-1" href=""><i class="fab fa-instagram"></i></a>
+                            </div> -->
+                        </div>
+                        <div class="bg-light text-center p-4">
+                        <h4 class="fw-bold mb-0">Mr. Jaikishan Kaushik</h4>
+                            <h5 class="fw-bold mb-0">General Manager</h5>
+                            <small>Experience: 46 Year Experience in Multy Brand work shop as a consultant and customer coordinator </small>
+                            <small> </small>
+                        </div>
+                    </div>
+                </div>
+                <!-- <div class="col-lg-3 col-md-6 wow fadeInUp" data-wow-delay="0.1s"> -->
+                <div class="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.1s">
+                    <div class="team-item">
+                        <div class="position-relative overflow-hidden">
+                            <img class="img-fluid" src="img/team-2.jpg" alt="">
+                            <!-- <div class="team-overlay position-absolute start-0 top-0 w-100 h-100">
+                                <a class="btn btn-square mx-1" href=""><i class="fab fa-facebook-f"></i></a>
+                                <a class="btn btn-square mx-1" href=""><i class="fab fa-twitter"></i></a>
+                                <a class="btn btn-square mx-1" href=""><i class="fab fa-instagram"></i></a>
+                            </div> -->
+                        </div>
+                        <div class="bg-light text-center p-4">
+                            <h4 class="fw-bold mb-0">Mr. Sarvender Singh Negi</h4>
+                            <h5 class="fw-bold mb-0">Work Shop Manager </h5>
+                            <small>Senior Workshop Manager : 23 Years wide working experience with  BMW, Ford, Nissan, Toyota, Mahindra </small>
+                             <small> </small>
+                        </div>
+                    </div>
+                </div>
+                <!-- <div class="col-lg-3 col-md-6 wow fadeInUp" data-wow-delay="0.1s"> -->
+               
+                <!-- <div class="col-lg-3 col-md-6 wow fadeInUp" data-wow-delay="0.7s">
+                    <div class="team-item">
+                        <div class="position-relative overflow-hidden">
+                            <img class="img-fluid" src="img/team-4.jpg" alt="">
+                            <div class="team-overlay position-absolute start-0 top-0 w-100 h-100">
+                                <a class="btn btn-square mx-1" href=""><i class="fab fa-facebook-f"></i></a>
+                                <a class="btn btn-square mx-1" href=""><i class="fab fa-twitter"></i></a>
+                                <a class="btn btn-square mx-1" href=""><i class="fab fa-instagram"></i></a>
+                            </div>
+                        </div>
+                        <div class="bg-light text-center p-4">
+                            <h5 class="fw-bold mb-0">Full Name</h5>
+                            <small>Designation</small>
+                        </div>
+                    </div>
+                </div> -->
+            </div>
+        </div>
+    </div>
+    <!-- Team End -->
+    
+
     <div class="container-xxl py-5">
         <div class="container">
             <div class="text-center wow fadeInUp" data-wow-delay="0.1s">
@@ -591,7 +679,7 @@
                 <div class="col-lg-3 col-md-6 wow fadeInUp" data-wow-delay="0.1s">
                     <div class="team-item">
                         <div class="position-relative overflow-hidden">
-                            <img class="img-fluid" src="img/insurance-1.png" alt="">
+                            <img class="img-fluid" src="img/insurance-10.png" alt="">
                         </div>
                     </div>
                 </div>
@@ -637,7 +725,7 @@
                 <div class="col-lg-3 col-md-6 wow fadeInUp" data-wow-delay="0.1s">
                     <div class="team-item">
                         <div class="position-relative overflow-hidden">
-                            <img class="img-fluid" src="img/insurance-7.png" alt="">
+                            <img class="img-fluid" src="img/insurance-9.png" alt="">
                         </div>
                     </div>
                 </div>
