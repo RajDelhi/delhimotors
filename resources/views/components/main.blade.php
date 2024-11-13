@@ -93,6 +93,11 @@
         <a href="{{url('')}}" class="navbar-brand d-flex align-items-center px-4 px-lg-5">
             <h2 class="m-0 text-primary"><i class="fa fa-car me-3"></i>Delhi Motors</h2>
         </a>
+        <div class="logo">
+            <div class="module-image">
+                <img src="/img/bosch-service-logo.svg" alt="Bosch Car Service" title="Bosch Car Service">
+            </div>
+        </div>
         <button type="button" class="navbar-toggler me-4" data-bs-toggle="collapse" data-bs-target="#navbarCollapse">
             <span class="navbar-toggler-icon"></span>
         </button>
