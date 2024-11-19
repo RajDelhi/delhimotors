@@ -44,6 +44,7 @@ class HomeController extends Controller
         return view('delhi-motors/contact', $data);
     }
 
+
     public function sendbookingemail()
     {
         try {
@@ -78,5 +79,14 @@ class HomeController extends Controller
 
         }
 
+    }
+
+    public function winter_car_maintenance_tips()
+    {
+        $data['page_title'] = "Winter Car Maintenance Tips: 7 Essential Steps for Safety";
+        $data['description'] = "Stay safe this winter with 7 essential car maintenance tips for cold weather. Learn how to protect your car and keep it running smoothly all season.";
+        $data['p_keyword'] = "Winter Car Maintenance Tips";
+        $data['s_keyword'] = "";
+        return view('delhi-motors/blog', $data);
     }
 }
