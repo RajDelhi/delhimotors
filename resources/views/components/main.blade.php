@@ -110,7 +110,7 @@
                 <div class="nav-item dropdown">
                     <a href="#" class="nav-link dropdown-toggle" data-bs-toggle="dropdown">Blog</a>
                     <div class="dropdown-menu fade-up m-0">
-                        <a href="{{url('/winter-car-maintenance-tips')}}" class="dropdown-item">Winter Car Maintenance Tips</a>
+                        <a href="{{url('/blog/winter-car-maintenance-tips')}}" class="dropdown-item">Winter Car Maintenance Tips</a>
                         <!-- <a href="team.html" class="dropdown-item">Technicians</a>
                         <a href="testimonial.html" class="dropdown-item">Testimonial</a>
                         <a href="404.html" class="dropdown-item">404 Page</a> -->
