@@ -96,7 +96,7 @@
         </a>
         <div class="logo">
             <div class="module-image">
-                <img src="/img/bosch-service-logo_new.svg" alt="Bosch Car Service" title="Bosch Car Service">
+                <img src="/img/bosch-service-logo_new.svg" alt="Bosch Premium and Luxury car service center" title="Bosch Premium and Luxury car service center">
             </div>
         </div>
         <button type="button" class="navbar-toggler me-4" data-bs-toggle="collapse" data-bs-target="#navbarCollapse">
