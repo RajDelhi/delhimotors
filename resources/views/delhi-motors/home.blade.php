@@ -305,7 +305,7 @@
         <div class="container">
             <div class="text-center wow fadeInUp" data-wow-delay="0.1s">
                 <h6 class="text-primary text-uppercase">// Premium Car Brands //</h6>
-                <h1 class="mb-5">Our Specialized Repair Expertise in Top-tier Luxury Car Brands</h1>
+                <h1 class="mb-5">Our Specialized Expertise in Top-tier Luxury Car Brands</h1>
             </div>
             <div class="row g-4">
                 <div class="col-lg-3 col-md-6 wow fadeInUp" data-wow-delay="0.1s">
