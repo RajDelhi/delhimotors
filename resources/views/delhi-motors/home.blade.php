@@ -132,9 +132,9 @@
                 </div>
                 <div class="col-lg-6">
                     <h6 class="text-primary text-uppercase">// About Us //</h6>
-                    <h1 class="mb-4"><span class="text-primary">Delhi Motors</span> Is Your Trusted Partner In Automobile
+                    <h1 class="mb-4"><span class="text-primary">Delhi Motors</span> Is Your trusted car service center in south delhi
                     </h1>
-                    <p class="mb-4">Delhi Motors has been providing top-tier automotive services using mordern machine and equipment under guidance of high qualified service advisers for over many years. Our mission is to offer reliable, efficient, and affordable services in budget of car owners across Delhi and NCR. We believe in building long-term relationships with our clients and our commitment to quality has helped us earn the trust of thousands of satisfied customers.
+                    <p class="mb-4">Delhi Motors has been providing top-tier car services using mordern machine and equipment under guidance of high qualified service advisers for over many years. Our mission is to offer reliable, efficient, and affordable services in budget of car owners across Delhi and NCR. We believe in building long-term relationships with our clients and our commitment to quality has helped us earn the trust of thousands of satisfied customers.
                     </p>
                     <div class="row g-4 mb-3 pb-3">
                         <div class="col-12 wow fadeIn" data-wow-delay="0.1s">
@@ -144,7 +144,7 @@
                                     <span class="fw-bold text-secondary">01</span>
                                 </div>
                                 <div class="ps-3">
-                                    <h6>Professional & Expert</h6>
+                                    <h6>Professional & Expert in Luxury car service</h6>
                                     <span>Skilled professionals delivering reliable and expert automotive services every time.</span>
                                 </div>
                             </div>
@@ -156,8 +156,8 @@
                                     <span class="fw-bold text-secondary">02</span>
                                 </div>
                                 <div class="ps-3">
-                                    <h6>Quality Servicing Center</h6>
-                                    <span>Your trusted destination for high-quality, efficient, and affordable car repairs.</span>
+                                    <h6>Quality Servicing Center In Delhi NCR</h6>
+                                    <span>Your trusted destination for high-quality, efficient, and affordable car premium car repairs.</span>
                                 </div>
                             </div>
                         </div>
@@ -168,7 +168,7 @@
                                     <span class="fw-bold text-secondary">03</span>
                                 </div>
                                 <div class="ps-3">
-                                    <h6>Awards Winning Workers</h6>
+                                    <h6>Awards Winning Car Service Workers </h6>
                                     <span>Recognized professionals providing top-notch service with industry-leading expertise and care.</span>
                                 </div>
                             </div>

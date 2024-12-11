@@ -10,9 +10,8 @@ class HomeController extends Controller
     public function index()
     {
         $data['page_title'] = "Luxury Car Repair | Luxury Car Service Center in Delhi NCR, Premium Car Repair";
-        $data['description'] = "Luxury car repair and Car service center in Delhi NCR. Visit Delhi Motors to get the best luxury car service or premium car repair and maintenance services in Delhi.";
-        $data['p_keyword'] = "Luxury Car Repair, Luxury Car Service Center in Delhi NCR, Car Service Center in Delhi NCR, best luxury car service, premium car repair
-";
+        $data['description'] = "Best car service centre near me, car service centre near me, wheel alignment and balancing near me, car repair shop near me, vehicle repair shop near me, vehicle repair center near me, car mechanic near me, car mechanic in badarpur, car garage near me, Best car workshop near me, Luxury car service center, Luxury car service center near me";
+        $data['p_keyword'] = "Best car service centre near me, car service centre near me, wheel alignment and balancing near me, car repair shop near me, vehicle repair shop near me, vehicle repair center near me, car mechanic near me, car mechanic in badarpur, car garage near me, Best car workshop near me, Luxury car service center, Luxury car service center near me";
         $data['s_keyword'] = "";
         return view('delhi-motors/home', $data);
     }

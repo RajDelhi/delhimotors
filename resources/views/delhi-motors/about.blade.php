@@ -41,8 +41,8 @@
                     <div class="d-flex py-5 px-4">
                         <i class="fa fa-certificate fa-3x text-primary flex-shrink-0"></i>
                         <div class="ps-4">
-                            <h5 class="mb-3">Quality Servicing</h5>
-                            <p>Delivering top-tier vehicle maintenance and repair services, ensuring your car performs at its best every time.</p>
+                            <h5 class="mb-3">Quality Servicing for Luxury car</h5>
+                            <p>Discover the best car repair shop near you, offering expert vehicle maintenance, wheel alignment, and luxury car services with guaranteed satisfaction.</p>
                             <!-- <a class="text-secondary border-bottom" href="">Read More</a> -->
                         </div>
                     </div>
@@ -52,7 +52,7 @@
                         <i class="fa fa-users-cog fa-3x text-primary flex-shrink-0"></i>
                         <div class="ps-4">
                             <h5 class="mb-3">Expert Workers</h5>
-                            <p>Highly skilled technicians with extensive experience, providing precise, efficient, and reliable solutions for all car issues</p>
+                            <p>Visit our trusted vehicle repair center for expert car maintenance, repairs, and wheel alignment services. Conveniently located near you, we specialize in delivering top-quality solutions for all vehicle types, including luxury cars.</p>
                             <!-- <a class="text-secondary border-bottom" href="">Read More</a> -->
                         </div>
                     </div>
@@ -62,7 +62,7 @@
                         <i class="fa fa-tools fa-3x text-primary flex-shrink-0"></i>
                         <div class="ps-4">
                             <h5 class="mb-3">Modern Equipment</h5>
-                            <p>Utilizing state-of-the-art tools and technology to diagnose and repair vehicles, ensuring accuracy and superior results.</p>
+                            <p>Experience top-quality car care at our modern equipment service center in South Delhi. Equipped with advanced tools, we ensure precise repairs, wheel alignment, and premium maintenance for all vehicle types, including luxury cars.</p>
                             <!-- <a class="text-secondary border-bottom" href="">Read More</a> -->
                         </div>
                     </div>
@@ -90,9 +90,9 @@
                 </div>
                 <div class="col-lg-6">
                     <h6 class="text-primary text-uppercase">// About Delhi Motors //</h6>
-                    <h1 class="mb-4"><span class="text-primary">Delhi Motors</span> Is Your Trusted Partner In Automobile
+                    <h1 class="mb-4"><span class="text-primary">Delhi Motors is </span> Your Trusted Car Service Center for Premium Vehicle Repair, Alignment & Balancing, and Luxury Car Service
                     </h1>
-                    <p class="mb-4">Delhi Motors has been providing top-tier automotive services using mordern machine and equipment under guidance of high qualified service advisers for over many years. Our mission is to offer reliable, efficient, and affordable services in budget of car owners across Delhi and NCR. We believe in building long-term relationships with our clients and our commitment to quality has helped us earn the trust of thousands of satisfied customers.
+                    <p class="mb-4">Delhi Motors is the ultimate destination for all your vehicle needs. As a trusted car mechanic, we specialize in expert vehicle repair, alignment, and balancing services. Whether you own a premium or luxury car, our advanced techniques and exceptional service ensure top-notch results. Choose Delhi Motors for reliable, professional car care that exceeds your expectations
                     </p>
                     <div class="row g-4 mb-3 pb-3">
                         <div class="col-12 wow fadeIn" data-wow-delay="0.1s">
@@ -235,7 +235,7 @@
                     </div>
                 </div>
                 <!-- <div class="col-lg-3 col-md-6 wow fadeInUp" data-wow-delay="0.1s"> -->
-               
+
                 <!-- <div class="col-lg-3 col-md-6 wow fadeInUp" data-wow-delay="0.7s">
                     <div class="team-item">
                         <div class="position-relative overflow-hidden">
