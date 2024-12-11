@@ -47,9 +47,9 @@
                         <div class="container">
                             <div class="row align-items-center justify-content-center justify-content-lg-start">
                                 <div class="col-10 col-lg-7 text-center text-lg-start">
-                                    <h6 class="text-white text-uppercase mb-3 animated slideInDown">// Car Servicing //
+                                    <h6 class="text-white text-uppercase mb-3 animated slideInDown">// Luxury Car Servicing //
                                     </h6>
-                                    <h1 class="display-3 text-white mb-4 pb-3 animated slideInDown">Your One-Stop Solution for All Cars Periodic Service, Repairs, Paint Job & Accessories
+                                    <h1 class="display-3 text-white mb-4 pb-3 animated slideInDown">Your One-Stop Solution for All Premium and Luxury Cars Periodic Service, Repairs, Paint Job & Accessories
                                         </h1>
                                     <!-- <a href="" class="btn btn-primary py-3 px-5 animated slideInDown">Learn More<i
                                             class="fa fa-arrow-right ms-3"></i></a> -->
@@ -278,7 +278,7 @@
                     </div>
                 </div>
                 <!-- <div class="col-lg-3 col-md-6 wow fadeInUp" data-wow-delay="0.1s"> -->
-               
+
                 <!-- <div class="col-lg-3 col-md-6 wow fadeInUp" data-wow-delay="0.7s">
                     <div class="team-item">
                         <div class="position-relative overflow-hidden">
@@ -299,7 +299,7 @@
         </div>
     </div>
     <!-- Team End -->
-    
+
 
     <div class="container-xxl py-5">
         <div class="container">
