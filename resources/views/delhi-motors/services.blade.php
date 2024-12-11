@@ -80,7 +80,7 @@
                                 </div>
                                 <div class="col-md-6">
                                     <h3 class="mb-3">General Maintenance & Repairs</h3>
-                                    <p class="mb-4">Keep your car running smoothly with our regular maintenance and repair services. From oil changes to brake checks, we ensure your vehicle stays in top condition.</p>
+                                    <p class="mb-4">Ensure your car performs at its best with our general maintenance and repair services. We specialize in premium and luxury vehicle repair, offering expert alignment and balancing for all car types. Trust our team for top-quality care, keeping your vehicle in perfect condition with the best solutions tailored to your needs.</p>
                                     <p><i class="fa fa-check text-success me-3"></i>Oil Changes</p>
                                     <p><i class="fa fa-check text-success me-3"></i>Brake Services</p>
                                     <p><i class="fa fa-check text-success me-3"></i>Battery Replacement</p>
@@ -100,7 +100,7 @@
                                 </div>
                                 <div class="col-md-6">
                                     <h3 class="mb-3">Car Washing & Detailing</h3>
-                                    <p class="mb-4">Give your car a fresh, clean look with our comprehensive washing and detailing services. We offer everything from exterior polishing to interior deep cleaning.</p>
+                                    <p class="mb-4">Give your car a fresh, spotless look with our professional car washing and detailing services. At Delhi Motors, we specialize in premium cleaning solutions that restore your vehicle's shine, inside and out. Whether you own a luxury or standard car, trust us for the best detailing services to enhance and maintain your car's pristine appearance.</p>
                                     <p><i class="fa fa-check text-success me-3"></i>Interior & Exterior Cleaning</p>
                                     <p><i class="fa fa-check text-success me-3"></i>Paint Protection</p>
                                     <p><i class="fa fa-check text-success me-3"></i>Waxing & Polishing</p>
