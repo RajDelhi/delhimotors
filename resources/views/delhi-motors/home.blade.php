@@ -548,7 +548,7 @@
             <div class="row gx-5">
                 <div class="col-lg-6 py-5">
                     <div class="py-5">
-                        <h1 class="text-white mb-4">Certified and Award Winning Car Repair Service Provider</h1>
+                        <h1 class="text-white mb-4">Certified and Award Winning Premium & Luxury Car Repair Service Provider</h1>
                         <p class="text-white mb-0">At Delhi Motors India, we pride ourselves on being a certified and award-winning car repair service provider. Our team of highly trained technicians delivers top-quality repairs and maintenance for all vehicle makes and models. Recognized for excellence in customer service, we ensure every repair meets the highest industry standards. From routine maintenance to complex repairs, we provide reliable, efficient, and affordable solutions. Our commitment to quality and customer satisfaction has earned us numerous awards, making us one of Delhi’s most trusted names in automotive care. Experience unparalleled service and drive with confidence.</p>
                     </div>
                 </div>
