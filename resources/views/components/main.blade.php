@@ -6,6 +6,7 @@
     <title>{{$title}}</title>
     <meta content="width=device-width, initial-scale=1.0" name="viewport">
     <meta content="{{$p_keyword}}" name="keywords">
+    <meta name="facebook-domain-verification" content="eidwltv0yi5re4286qcjfnje4zjage" />
 
     <meta content="{{$description}}" name="description">
 
