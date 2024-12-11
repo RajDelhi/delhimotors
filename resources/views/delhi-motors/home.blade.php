@@ -311,14 +311,14 @@
                 <div class="col-lg-3 col-md-6 wow fadeInUp" data-wow-delay="0.1s">
                     <div class="team-item">
                         <div class="position-relative overflow-hidden">
-                            <img class="img-fluid" src="img/brand-1.png" alt="">
+                            <img class="img-fluid" src="img/brand-1.png" alt="ROLLS ROYCE  car service center in delhi NCR">
                         </div>
                     </div>
                 </div>
                 <div class="col-lg-3 col-md-6 wow fadeInUp" data-wow-delay="0.1s">
                     <div class="team-item">
                         <div class="position-relative overflow-hidden">
-                            <img class="img-fluid" src="img/brand-2.png" alt="">
+                            <img class="img-fluid" src="img/brand-2.png" alt="Porce car service center in delhi NCR">
                         </div>
 
                     </div>
@@ -326,14 +326,14 @@
                 <div class="col-lg-3 col-md-6 wow fadeInUp" data-wow-delay="0.1s">
                     <div class="team-item">
                         <div class="position-relative overflow-hidden">
-                            <img class="img-fluid" src="img/brand-3.png" alt="">
+                            <img class="img-fluid" src="img/brand-3.png" alt="BMW car service center in delhi NCR">
                         </div>
                     </div>
                 </div>
                 <div class="col-lg-3 col-md-6 wow fadeInUp" data-wow-delay="0.7s">
                     <div class="team-item">
                         <div class="position-relative overflow-hidden">
-                            <img class="img-fluid" src="img/brand-4.png" alt="">
+                            <img class="img-fluid" src="img/brand-4.png" alt="RANGE ROVER car service center in delhi NCR">
                         </div>
                     </div>
                 </div>
@@ -342,14 +342,14 @@
                 <div class="col-lg-3 col-md-6 wow fadeInUp" data-wow-delay="0.1s">
                     <div class="team-item">
                         <div class="position-relative overflow-hidden">
-                            <img class="img-fluid" src="img/brand-9.png" alt="">
+                            <img class="img-fluid" src="img/brand-9.png" alt="Mercedes car service center in delhi NCR">
                         </div>
                     </div>
                 </div>
                 <div class="col-lg-3 col-md-6 wow fadeInUp" data-wow-delay="0.1s">
                     <div class="team-item">
                         <div class="position-relative overflow-hidden">
-                            <img class="img-fluid" src="img/brand-6.png" alt="">
+                            <img class="img-fluid" src="img/brand-6.png" alt="Jaguar car service center in delhi NCR">
                         </div>
 
                     </div>
@@ -357,14 +357,14 @@
                 <div class="col-lg-3 col-md-6 wow fadeInUp" data-wow-delay="0.1s">
                     <div class="team-item">
                         <div class="position-relative overflow-hidden">
-                            <img class="img-fluid" src="img/brand-7.png" alt="">
+                            <img class="img-fluid" src="img/brand-7.png" alt="AUDI car service center in delhi NCR">
                         </div>
                     </div>
                 </div>
                 <div class="col-lg-3 col-md-6 wow fadeInUp" data-wow-delay="0.7s">
                     <div class="team-item">
                         <div class="position-relative overflow-hidden">
-                            <img class="img-fluid" src="img/brand-8.png" alt="">
+                            <img class="img-fluid" src="img/brand-8.png" alt="VOLVO car service center in delhi NCR">
                         </div>
                     </div>
                 </div>
