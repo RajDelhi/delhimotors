@@ -106,15 +106,19 @@
             <div class="navbar-nav ms-auto p-4 p-lg-0">
                 <a href="{{url('')}}" class="nav-item nav-link active">Home</a>
                 <a href="{{url('/about')}}" class="nav-item nav-link">About</a>
-                <a href="{{url(path: '/services')}}" class="nav-item nav-link">Services</a>
+                <!-- <a href="{{url(path: '/services')}}" class="nav-item nav-link">Services</a> -->
+                <div class="nav-item dropdown">
+                    <a href="#" class="nav-link dropdown-toggle" data-bs-toggle="dropdown">Services</a>
+                    <div class="dropdown-menu fade-up m-0">
+                        <a href="{{url('/services')}}" class="dropdown-item">General Services</a>
+                        <a href="{{url('/Audi-Service-Center-In-Delhi')}}" class="dropdown-item">Audi Service center in delhi</a>
+                    </div>
+                </div>
 
                 <div class="nav-item dropdown">
                     <a href="#" class="nav-link dropdown-toggle" data-bs-toggle="dropdown">Blog</a>
                     <div class="dropdown-menu fade-up m-0">
                         <a href="{{url('/winter-car-maintenance-tips')}}" class="dropdown-item">Winter Car Maintenance Tips</a>
-                        <!-- <a href="team.html" class="dropdown-item">Technicians</a>
-                        <a href="testimonial.html" class="dropdown-item">Testimonial</a>
-                        <a href="404.html" class="dropdown-item">404 Page</a> -->
                     </div>
                 </div>
                 <a href="{{url(path: '/contact-us')}}" class="nav-item nav-link">Contact</a>
