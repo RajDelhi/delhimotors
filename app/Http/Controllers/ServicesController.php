@@ -44,12 +44,12 @@ class ServicesController extends Controller
     }
 
 
-    // public function bmw_sevice_center_in_delhi()
-    // {
-    //     $data['page_title'] = "Audi Repair and Audi Service Center in Delhi Near Me";
-    //     $data['description'] = "Audi repairs, Audi Service Center in Delhi Near Me ensure that your vehicle receives top-quality maintenance and care, When serviced by the skilled team at Delhi Motors.";
-    //     $data['p_keyword'] = "Audi Service Center in Delhi Near Me";
-    //     $data['s_keyword'] = "Audi repair, Audi Service Center in Delhi, Audi Service Center in Delhi Near Me, Service Center in Delhi Near Me";
-    //     return view('pages/audi', $data);
-    // }
+    public function volvo_service_center_in_delhi()
+    {
+        $data['page_title'] = "Volvo Service Center in Delhi, and car repair - Delhi Motors India";
+        $data['description'] = "Looking for Volvo car repair or Volvo service center in delhi? So you should visit Delhi motors india service center in delhi NCR";
+        $data['p_keyword'] = "Volvo Service Center in Delhi";
+        $data['s_keyword'] = "Volvo Service Center in Delhi, Volvo car repair, Service Center in delhi near me";
+        return view('pages/volvo', $data);
+    }
 }
