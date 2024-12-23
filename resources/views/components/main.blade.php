@@ -113,6 +113,7 @@
                         <a href="{{url('/services')}}" class="dropdown-item">General Services</a>
                         <a href="{{url('/Audi-Service-Center-In-Delhi')}}" class="dropdown-item">Audi Service center in delhi</a>
                         <a href="{{url('/BMW-Sevice-Center-In-Delhi')}}" class="dropdown-item">BMW Sevice Center In Delhi</a>
+                        <a href="{{url('/Land-Rover-Service-Center-In-Delhi')}}" class="dropdown-item">Land Rover Service Center In Delhi</a>
                     </div>
                 </div>
 
