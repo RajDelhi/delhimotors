@@ -13,3 +13,4 @@ Route::get('winter-car-maintenance-tips', [HomeController::class, 'winter_car_ma
 Route::post('book-service', [HomeController::class, 'sendbookingemail']);
 
 Route::get('Audi-Service-Center-In-Delhi', [ServicesController::class, 'audi_service_center_in_delhi']);
+Route::get('BMW-Sevice-Center-In-Delhi', [ServicesController::class, 'bmw_sevice_center_in_delhi']);

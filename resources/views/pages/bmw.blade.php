@@ -19,7 +19,7 @@
     <div class="container-fluid page-header mb-5 p-0" style="background-image: url(img/carousel-bg-1.jpg);">
         <div class="container-fluid page-header-inner py-5">
             <div class="container text-center">
-                <h1 class="display-3 text-white mb-3 animated slideInDown">Delhi Motors India – The Premier Audi Service
+                <h1 class="display-3 text-white mb-3 animated slideInDown">Delhi Motors India – The Best BMW Service
                     Center in Delhi</h1>
             </div>
         </div>
@@ -37,16 +37,19 @@
             <div class="row g-5">
                 <div class="">
                     <!-- <h6 class="text-primary text-uppercase">// 7 Winter Car Maintenance Tips By Delhi Motors //</h6> -->
-                    <h1 class="mb-4">Audi Service Center in Delhi NCR
+                    <h1 class="mb-4">BMW Service Center in Delhi NCR
                     </h1>
-                    <p class="mb-4">If you’re looking for the best Audi Service Center in Delhi, Delhi Motors India is
-                        your trusted destination. Specializing in Audi repair and maintenance, we are dedicated to
-                        keeping your luxury vehicle in peak condition. Whether it’s routine maintenance or intricate
-                        repairs, our expert technicians are equipped with the latest tools and technology to handle all
-                        your car’s needs.
+                    <p class="mb-4">Are you searching for a trusted BMW Service Center near me in Delhi? Look no further
+                        than Delhi Motors India! We specialize in providing premium repair and maintenance services for
+                        your BMW, ensuring it stays in top condition. Our state-of-the-art facility and team of
+                        certified technicians make us the Best BMW Repair Center in Delhi, catering to all your luxury
+                        car needs.
                     </p>
-                    <h1 class="mb-4">Why Choose Delhi Motors India for Your Audi?
+                    <h1 class="mb-4">Why Choose Delhi Motors India for Your BMW car?
                     </h1>
+                    <p class="mb-4">At Delhi Motors India, we’re dedicated to delivering unparalleled service and
+                        expertise. Here’s why we are the preferred BMW Service Center near me in Delhi:
+                    </p>
                     <div class="row g-4 mb-3 pb-3">
                         <div class="col-12 wow fadeIn" data-wow-delay="0.1s">
                             <div class="d-flex">
@@ -55,10 +58,10 @@
                                     <span class="fw-bold text-secondary">01</span>
                                 </div>
                                 <div class="ps-3">
-                                    <h3>Certified Audi Specialists</h3>
-                                    <span>Our team of certified technicians undergoes rigorous training to ensure they
-                                        stay updated with the latest advancements in Audi technology. Their expertise
-                                        guarantees your car gets the best possible care.</span>
+                                    <h3>Certified BMW Technicians</h3>
+                                    <span>Our team of skilled and certified professionals has extensive experience in
+                                        handling all BMW models. From diagnostics to repairs, we provide solutions
+                                        tailored to your vehicle’s unique requirements.</span>
                                     <!-- <div><BR></div> -->
                                     <!-- <div>
                                         <b>Battery Maintenance Tips </b>
@@ -79,9 +82,10 @@
                                     <span class="fw-bold text-secondary">02</span>
                                 </div>
                                 <div class="ps-3">
-                                    <h3>State-of-the-Art Facility</h3>
-                                    <span>Delhi Motors India is equipped with cutting-edge diagnostic tools and advanced
-                                        equipment, ensuring precision in every repair and maintenance task.</span>
+                                    <h3>Cutting-Edge Technology</h3>
+                                    <span>We use advanced diagnostic tools and equipment to ensure precise servicing and
+                                        repairs. This technology enables us to identify and resolve issues quickly and
+                                        effectively.</span>
                                     <!-- <div><BR></div> -->
                                 </div>
                             </div>
@@ -94,9 +98,9 @@
                                     <span class="fw-bold text-secondary">03</span>
                                 </div>
                                 <div class="ps-3">
-                                    <h3>Genuine Audi Parts</h3>
-                                    <span>We use only authentic Audi parts to maintain the quality, performance, and
-                                        longevity of your luxury vehicle.</span>
+                                    <h3>Genuine BMW Parts</h3>
+                                    <span>At Delhi Motors India, we use only authentic BMW parts to maintain the
+                                        performance, reliability, and safety of your vehicle.</span>
                                 </div>
                             </div>
                         </div>
@@ -109,9 +113,8 @@
                                 </div>
                                 <div class="ps-3">
                                     <h3>Affordable and Transparent Pricing</h3>
-                                    <span>We offer premium services at competitive prices with no hidden charges. At our
-                                        Audi Service Center in Delhi Near Me, you get complete transparency and value
-                                        for money.</span>
+                                    <span>We believe in providing value for money. Our services are competitively
+                                        priced, and we maintain complete transparency with no hidden charges.</span>
                                 </div>
                             </div>
                         </div>
@@ -123,9 +126,9 @@
                                     <span class="fw-bold text-secondary">04</span>
                                 </div>
                                 <div class="ps-3">
-                                    <h3>Customer-Centric Approach</h3>
-                                    <span>Your satisfaction is our priority. From personalized consultations to timely
-                                        service delivery, we ensure a seamless experience.</span>
+                                    <h3>Convenient Location</h3>
+                                    <span>Strategically located in Delhi, our Service Center in Delhi Near Me is easily
+                                        accessible for BMW owners across the city.</span>
                                 </div>
                             </div>
                         </div>
@@ -135,23 +138,22 @@
                         <div class="col-12 wow fadeIn" data-wow-delay="0.1s">
                             <div class="d-flex">
                                 <div class="ps-3">
-                                    <h3><u>Services Offered at Delhi Motors India</u></h3>
-                                    <span><b>At our Service Center in Delhi Near Me, we offer a wide range of services
-                                            tailored to meet your Audi’s specific requirements, including:</b></span>
+                                    <h3><u>Services Offered by Delhi Motors India</u></h3>
+                                    <span><b>Our range of comprehensive services includes:</b></span>
                                     <br><br>
-                                    1. Routine servicing and inspections.
+                                    1. Regular maintenance and inspections.
                                     <br><br>
-                                    2. Brake repairs and replacements.
+                                    2. Engine diagnostics and repairs.
                                     <br><br>
-                                    3. Engine diagnostics and repairs.
+                                    3. Brake repairs and replacements.
                                     <br><br>
-                                    4. Suspension and steering adjustments.
+                                    4. Battery testing and replacement.
                                     <br><br>
-                                    5. Battery checks and replacements.
+                                    5. Air conditioning repair and servicing.
                                     <br><br>
-                                    6. Air conditioning repair and maintenance.
+                                    6. Suspension and steering adjustments.
                                     <br><br>
-                                    7. Comprehensive Audi repair solutions.
+                                    7. Complete BMW repair and troubleshooting.
                                     <br><br>
                                 </div>
                             </div>
@@ -162,12 +164,15 @@
                         <div class="col-12 wow fadeIn" data-wow-delay="0.1s">
                             <div class="d-flex">
                                 <div class="ps-3">
-                                    <h3>Conveniently Located Audi Service Center in Delhi</h3>
-                                    <span>Finding a reliable Audi Service Center in Delhi Near Me is now easier than
-                                        ever. Conveniently located, Delhi Motors India offers accessibility and
-                                        convenience for Audi owners across the city. Whether you’re in Central Delhi,
-                                        South Delhi, or nearby areas, our service center is within reach to address your
-                                        vehicle’s needs promptly and efficiently.</span>
+                                    <h3>Experience the Best BMW Repair Center in Delhi</h3>
+                                    <span>Your BMW is a masterpiece of engineering, and it deserves nothing but the best
+                                        care. At Delhi Motors India, we take pride in being the Best BMW Repair Center
+                                        in Delhi. Our team is committed to ensuring that your car runs smoothly and
+                                        efficiently, providing an unmatched driving experience.
+                                        We understand the value of your time and vehicle. That’s why we aim to deliver
+                                        services promptly without compromising quality. With our customer-centric
+                                        approach, we strive to exceed your expectations every time.
+                                    </span>
                                 </div>
                             </div>
                         </div>
@@ -175,17 +180,14 @@
                         <div class="col-12 wow fadeIn" data-wow-delay="0.1s">
                             <div class="d-flex">
                                 <div class="ps-3">
-                                    <h3>Experience Excellence with Delhi Motors India</h3>
-                                    <span>At Delhi Motors India, we understand the importance of keeping your luxury car
-                                        in top condition. As a trusted Audi Service Center in Delhi, we go above and
-                                        beyond to ensure your Audi remains a joy to drive. From small repairs to
-                                        comprehensive maintenance, our services are designed to exceed your
-                                        expectations.</span>
+                                    <h3>Visit Delhi Motors India Today</h3>
+                                    <span>When it comes to maintaining your BMW, Delhi Motors India is your ultimate
+                                        destination. Conveniently located and equipped with the latest technology, we
+                                        are your trusted BMW Service Center near me in Delhi.</span>
                                     <br><br>
-                                    <span>Don’t wait to give your car the care it deserves. Visit Delhi Motors India
-                                        today – your go-to Audi Service Center in Delhi Near Me – and experience
-                                        unparalleled service and expertise. Contact us now to schedule your appointment
-                                        and keep your Audi running like new!</span>
+                                    <span>Don’t wait – book your appointment today and experience premium care for your
+                                        BMW at Delhi Motors India. Let us help you keep your luxury car performing at
+                                        its best.</span>
                                 </div>
                             </div>
                         </div>
