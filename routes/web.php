@@ -15,3 +15,4 @@ Route::post('book-service', [HomeController::class, 'sendbookingemail']);
 Route::get('Audi-Service-Center-In-Delhi', [ServicesController::class, 'audi_service_center_in_delhi']);
 Route::get('BMW-Sevice-Center-In-Delhi', [ServicesController::class, 'bmw_sevice_center_in_delhi']);
 Route::get('Land-Rover-Service-Center-In-Delhi', [ServicesController::class, 'land_rover_service_center_in_delhi']);
+Route::get('Best-Mercedes-Service-Center-In-Delhi', [ServicesController::class, 'best_mercedes_service_center_in_delhi']);
