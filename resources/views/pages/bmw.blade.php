@@ -134,6 +134,11 @@
                         </div>
 
                         <HR>
+                        <div class="container-fluid  mb-5 p-0" ">
+                            <div class="container-fluid  py-3">
+                                    <img class="w-100" src="img/BMW-Service-Center-near-me-In-Delhi-NCR.png" alt="BMW Service Center near me In Delhi NCR">
+                            </div>
+                        </div>
 
                         <div class="col-12 wow fadeIn" data-wow-delay="0.1s">
                             <div class="d-flex">
