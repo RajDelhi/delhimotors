@@ -130,6 +130,12 @@
                             </div>
                         </div>
 
+                        <div class="container-fluid  mb-5 p-0" ">
+                            <div class="container-fluid page-header-inner py-3">
+                                    <img class="w-100" src="img/Audi-Service-Center-in-Delhi-Near-Me.jpg" alt="Audi Service Center in Delhi Near Me">
+                            </div>
+                        </div>
+
                         <HR>
 
                         <div class="col-12 wow fadeIn" data-wow-delay="0.1s">
