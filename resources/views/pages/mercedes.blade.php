@@ -120,6 +120,12 @@
                             </div>
                         </div>
 
+                        <div class="container-fluid  mb-5 p-0" ">
+                            <div class="container-fluid  py-3">
+                                    <img class="w-100" src="img/best-Mercedes-Service -Center-in-Delhi-NCR.png" alt="best Mercedes Service Center in Delhi NCR">
+                            </div>
+                        </div>
+
                         <HR>
 
                         <div class="col-12 wow fadeIn" data-wow-delay="0.1s">
