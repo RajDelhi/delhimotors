@@ -92,7 +92,7 @@
                     <h6 class="text-primary text-uppercase">// About Delhi Motors //</h6>
                     <h1 class="mb-4"><span class="text-primary">Delhi Motors is </span> Your Trusted Car Service Center for Premium Vehicle Repair, Alignment & Balancing, and Luxury Car Service
                     </h1>
-                    <p class="mb-4">Delhi Motors is the ultimate destination for all your vehicle needs. As a trusted car mechanic, we specialize in expert vehicle repair, alignment, and balancing services. Whether you own a premium or luxury car, our advanced techniques and exceptional service ensure top-notch results. Choose Delhi Motors for reliable, professional car care that exceeds your expectations
+                    <p class="mb-4">Delhi Motors is the ultimate destination for all your vehicle needs. As a trusted car mechanic, we specialize in expert vehicle repair, alignment, and balancing services. Whether you own a premium or luxury car, our advanced techniques and exceptional service ensure top-notch results. Choose Delhi Motors for reliable, professional car care that exceeds your expectations. Do you need car repair in Badarpur, Delhi NCR? Learn about our expert services & trusted team. We handle everything from oil changes to major repairs. Book today!
                     </p>
                     <div class="row g-4 mb-3 pb-3">
                         <div class="col-12 wow fadeIn" data-wow-delay="0.1s">
