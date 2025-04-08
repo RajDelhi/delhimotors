@@ -18,9 +18,9 @@ class HomeController extends Controller
 
     public function about()
     {
-        $data['page_title'] = "Luxury Car Repair | Luxury Car Service Center in Delhi NCR, Premium Car Repair";
-        $data['description'] = "Luxury car repair and Car service center in Delhi NCR. Visit Delhi Motors to get the best luxury car service or premium car repair and maintenance services in Delhi.";
-        $data['p_keyword'] = "Luxury Car Repair | Luxury Car Service Center in Delhi NCR, Premium Car Repair";
+        $data['page_title'] = "Car Repair and service centre in  Badarpur Delhi NCR: About Us & Services";
+        $data['description'] = "Need car repair in Badarpur, Delhi NCR? Learn about our expert services & trusted team. We handle everything from oil changes to major repairs. Book today!";
+        $data['p_keyword'] = "car service centre in Mohan estate Delhi ,Luxury Car Service Centre in Mohan estateDelhi NCR,   best car repair in Mohan estate, Popular Car Repair & Services in Mohan  corporative, , car service centre in Badarpur, top car repair service in Mohan estate Delhi, top rated car service and repair in Mohan estateDelhi NCR, vehicle repair services inBadarpurdelhi, luxury car repair shop in Badarpur delhi ncr";
         $data['s_keyword'] = "";
         return view('delhi-motors/about', $data);
     }
