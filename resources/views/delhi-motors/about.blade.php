@@ -8,9 +8,9 @@
         {{ $p_keyword }}
      </x-slot:p_keyword>
 
-     <x-slot:s_keyword>
+     <!-- <x-slot:s_keyword>
         {{ $s_keyword }}
-     </x-slot:s_keyword>
+     </x-slot:s_keyword> -->
 
      <x-slot:description>
         {{ $description }}
