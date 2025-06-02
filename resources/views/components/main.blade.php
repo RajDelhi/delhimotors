@@ -123,6 +123,7 @@
                 <div class="nav-item dropdown">
                     <a href="#" class="nav-link dropdown-toggle" data-bs-toggle="dropdown">Blog</a>
                     <div class="dropdown-menu fade-up m-0">
+                        <a href="{{url('/best-car-repair-in-mohan-estate')}}" class="dropdown-item">Best Car Repair in Mohan Estate</a>
                         <a href="{{url('/winter-car-maintenance-tips')}}" class="dropdown-item">Winter Car Maintenance Tips</a>
                     </div>
                 </div>
