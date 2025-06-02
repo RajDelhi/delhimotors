@@ -10,6 +10,8 @@ Route::get('about', [HomeController::class, 'about']);
 Route::get('services', [HomeController::class, 'services']);
 Route::get('contact-us', [HomeController::class, 'contact']);
 Route::get('winter-car-maintenance-tips', [HomeController::class, 'winter_car_maintenance_tips']);
+Route::get('best-car-repair-in-mohan-estate', [HomeController::class, 'best_car_repair_in_mohan_estate']);
+
 Route::post('book-service', [HomeController::class, 'sendbookingemail']);
 
 Route::get('Audi-Service-Center-In-Delhi', [ServicesController::class, 'audi_service_center_in_delhi']);
