@@ -96,4 +96,12 @@ class HomeController extends Controller
         $data['s_keyword'] = "";
         return view('delhi-motors/blog2', $data);
     }
+    public function luxury_car_repair_shop_in_delhi_ncr()
+    {
+        $data['page_title'] = "The Premier Luxury Car Repair Shop in Delhi NCR | Delhi Motors";
+        $data['description'] = "Looking for the the premier Luxury Car Repair Shop in Delhi NCR? Visit Delhi Motors, a top-rated car service centre in Delhi NCR offering luxury vehicle repair, diagnostics & maintenance.";
+        $data['p_keyword'] = "The Premier Luxury Car Repair Shop in Delhi NCR, car service centre in delhi,Car service centre in delhi near me,top car repair service in delhi,Luxury Car Service Center in Delhi ncr,car service and repair in delhi ncr,top rated car service and repair in delhi,vehicle repair services in delhi";
+        $data['s_keyword'] = "";
+        return view('delhi-motors/blog3', $data);
+    }
 }

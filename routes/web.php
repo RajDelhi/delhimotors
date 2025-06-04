@@ -11,6 +11,7 @@ Route::get('services', [HomeController::class, 'services']);
 Route::get('contact-us', [HomeController::class, 'contact']);
 Route::get('winter-car-maintenance-tips', [HomeController::class, 'winter_car_maintenance_tips']);
 Route::get('best-car-repair-in-mohan-estate', [HomeController::class, 'best_car_repair_in_mohan_estate']);
+Route::get('luxury-car-repair-shop-in-delhi-ncr', [HomeController::class, 'luxury_car_repair_shop_in_delhi_ncr']);
 
 Route::post('book-service', [HomeController::class, 'sendbookingemail']);
 
