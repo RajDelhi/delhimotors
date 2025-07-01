@@ -104,4 +104,12 @@ class HomeController extends Controller
         $data['s_keyword'] = "";
         return view('delhi-motors/blog3', $data);
     }
+    public function top_rated_car_garage_near_me_in_delhi()
+    {
+        $data['page_title'] = "top rated car garage near me delhi NCR | Delhi Motors";
+        $data['description'] = "Are You Searching the Top Rated Car Garage Near Me in Delhi? Call Delhi Motors India Company for the Best Service";
+        $data['p_keyword'] = "top rated car garage near me Delhi NCR, car service centre in delhi,Car service centre in delhi near me,top car repair service in delhi,Luxury Car Service Center in Delhi ncr,car service and repair in delhi ncr,top rated car service and repair in delhi,vehicle repair services in delhi";
+        $data['s_keyword'] = "";
+        return view('delhi-motors/blog4', $data);
+    }
 }
