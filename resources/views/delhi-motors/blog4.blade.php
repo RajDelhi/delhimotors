@@ -53,8 +53,8 @@
                                 That’s where Delhi Motors India Company shines. Known for top-rated service, they stand
                                 out among many options. If you want the best car garage near you, choosing Delhi Motors
                                 India guarantees peace of mind and excellent results.</p>
-                            <h2><u>Why Choosing the Right Car Garage in Delhi Matters</u></h2>
-                            <h3><u>Importance of Quality Service for Vehicle Longevity</u></h3>
+                            <h3><u>Why Choosing the Right Car Garage in Delhi Matters</u></h3>
+                            <h4>Importance of Quality Service for Vehicle Longevity</h4>
                             <span>Good service doesn’t just fix problems; it makes your car last longer. Proper repairs
                                 and regular maintenance help prevent major breakdowns. Did you know that in India, the
                                 average repair cost for vehicles is rising? Investing in trusted garages can save you
@@ -62,14 +62,14 @@
                                 years.</span>
                             <div><BR></div>
 
-                            <h3><u>Impact on Vehicle Safety and Performance</u></h3>
+                            <h4>Impact on Vehicle Safety and Performance</h4>
 
                             <span>Your safety depends on how well your car is maintained. Proper servicing ensures all
                                 parts work correctly, reducing accident risks. Skipping regular checks can lead to
                                 unexpected failures or dangerous situations. A well-maintained vehicle performs better
                                 on busy Delhi roads, giving you confidence during every drive.</span>
                             <div><BR></div>
-                            <h3>Cost-Effectiveness of Choosing Top-Rated Garages</h3>
+                            <h4>Cost-Effectiveness of Choosing Top-Rated Garages</h4>
                             <span>Believe it or not, maintaining your car prevents costly repairs later. Preventive
                                 maintenance can cut down expenses by catching issues early. Reputable garages like Delhi
                                 Motors India offer affordable pricing and reliable services. This smart choice saves you
@@ -83,27 +83,27 @@
                                 Avoid garages with many negative comments or unresolved complaints.</span>
                             <div><BR></div>
 
-                            <h4><u>Certification and Skilled Technicians</u></h4>
+                            <h4>Certification and Skilled Technicians</h4>
                             <span>Always check if mechanics are certified. Certifications like ISI, Bosch, or ASE show
                                 trained technicians are handling your vehicle. Authorized service centers often follow
                                 strict quality standards, ensuring better repairs and maintenance.</span>
                             <div><BR></div>
 
-                            <h4><u>Range of Services Offered</u></h4>
+                            <h4>Range of Services Offered</h4>
                             <span>Look for garages that offer everything from basic oil changes to complex engine
                                 repairs. A multi-service garage makes it easier to get all your car needs done in one
                                 place. It’s convenient and saves time.</span>
                             <div><BR></div>
-                            <h4><u>Use of Modern Equipment and Genuine Parts</u></h4>
+                            <h4>Use of Modern Equipment and Genuine Parts</h4>
                             <span>Advanced tools and genuine spare parts make a big difference. They ensure repairs are
                                 accurate and last longer. A garage that invests in modern diagnostic tools shows they
                                 care about quality.</span>
                             <div><BR></div>
-                            <h4><u>Location and Accessibility</u></h4>
+                            <h4>Location and Accessibility</h4>
                             <span>Pick a garage near your home or office for quick visits. Check their working hours
                                 too. Flexibility with appointments can make your service experience smoother.</span>
                             <div><BR></div>
-                            <h4><u>Price Transparency and Service Guarantees</u></h4>
+                            <h4>Price Transparency and Service Guarantees</h4>
                             <span>Avoid hidden charges. Choose garages that give clear quotes beforehand. Warranties on
                                 repairs build trust and assure you genuine value for money.
 
@@ -120,40 +120,36 @@
                                 positive reviews over the years.
                             </span>
                             <div><BR></div>
-                            <h4><u>Comprehensive Range of Services
-                                </u></h4>
+                            <h4>Comprehensive Range of Services</h4>
                             <span>From engine repairs to air conditioning servicing, Delhi Motors handles it all. They
                                 can fix electrical issues, provide bodywork, and do routine checkups, all under one
                                 roof.
                             </span>
                             <div><BR></div>
-                            <h4><u>Skilled and Certified Technicians
-                                </u></h4>
+                            <h4>Skilled and Certified Technicians</h4>
                             <span>Their team is made up of trained professionals who never stop learning new techniques.
                                 This ensures your vehicle gets expert care every time.
                             </span>
                             <div><BR></div>
 
-                            <h3><u>Use of Advanced Equipment and Genuine Parts
-                                </u></h3>
+                            <h4>Use of Advanced Equipment and Genuine Parts</h4>
                             <span>Delhi Motors invests in the latest diagnostic tools and uses only original spare
                                 parts. This guarantees your car is repaired correctly and lasts longer.
                             </span>
                             <div><BR></div>
-                            <h4><u>Competitive Pricing and Transparent Billing
-                                </u></h4>
+                            <h4>Competitive Pricing and Transparent Billing</h4>
                             <span>They offer affordable rates with upfront estimates. No surprise charges, just honest
                                 service you can trust.
                             </span>
                             <div><BR></div>
-                            <h4><u>Customer-Centric Approach and Convenience
-                                </u></h4>
+                            <h4>Customer-Centric Approach and Convenience
+                                </h4>
                             <span>Booking appointments is simple, with options for pick-up and drop-off. Friendly
                                 customer support makes every visit pleasant and hassle-free.
                             </span>
                             <div><BR></div>
-                            <h4><u>Proven Track Record and Customer Satisfaction
-                                </u></h4>
+                            <h4>Proven Track Record and Customer Satisfaction
+                                </h4>
                             <span>Many happy drivers recommend Delhi Motors. Their successful repairs and satisfied
                                 customers prove they are a leading auto service provider in Delhi.
                             </span>
