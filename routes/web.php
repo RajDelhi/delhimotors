@@ -13,6 +13,7 @@ Route::get('winter-car-maintenance-tips', [HomeController::class, 'winter_car_ma
 Route::get('best-car-repair-in-mohan-estate', [HomeController::class, 'best_car_repair_in_mohan_estate']);
 Route::get('luxury-car-repair-shop-in-delhi-ncr', [HomeController::class, 'luxury_car_repair_shop_in_delhi_ncr']);
 Route::get('top-rated-car-garage-near-me-in-delhi-ncr', [HomeController::class, 'top_rated_car_garage_near_me_in_delhi']);
+Route::get('car-service-and-repair-in-delhi-ncr', [HomeController::class, 'car_service_and_repair_in_delhi_ncr']);
 
 Route::post('book-service', [HomeController::class, 'sendbookingemail']);
 
