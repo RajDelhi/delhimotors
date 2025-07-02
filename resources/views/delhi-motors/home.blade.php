@@ -326,14 +326,16 @@
                 <div class="col-lg-3 col-md-6 wow fadeInUp" data-wow-delay="0.1s">
                     <div class="team-item">
                         <div class="position-relative overflow-hidden">
-                            <img class="img-fluid" src="img/brand-3.png" alt="BMW car service center in delhi NCR">
+                            <a href="{{url('/BMW-Sevice-Center-In-Delhi')}}" title="BMW car service center in delhi NCR"><img class="img-fluid" src="img/brand-3.png" alt="BMW car service center in delhi NCR"></a>
                         </div>
                     </div>
                 </div>
                 <div class="col-lg-3 col-md-6 wow fadeInUp" data-wow-delay="0.7s">
                     <div class="team-item">
                         <div class="position-relative overflow-hidden">
-                            <img class="img-fluid" src="img/brand-4.png" alt="RANGE ROVER car service center in delhi NCR">
+                            <a href="{{url('/Land-Rover-Service-Center-In-Delhi')}}" title="Land Rover Service Center In Delhi">
+                                <img class="img-fluid" src="img/brand-4.png" alt="RANGE ROVER car service center in delhi NCR">
+                            </a>
                         </div>
                     </div>
                 </div>
@@ -342,7 +344,9 @@
                 <div class="col-lg-3 col-md-6 wow fadeInUp" data-wow-delay="0.1s">
                     <div class="team-item">
                         <div class="position-relative overflow-hidden">
-                            <img class="img-fluid" src="img/brand-9.png" alt="Mercedes car service center in delhi NCR">
+                            <a href="{{url('/Best-Mercedes-Service-Center-In-Delhi')}}" title="Best Mercedes Service Center In Delhi">
+                                <img class="img-fluid" src="img/brand-9.png" alt="Mercedes car service center in delhi NCR">
+                            </a>
                         </div>
                     </div>
                 </div>
@@ -357,14 +361,18 @@
                 <div class="col-lg-3 col-md-6 wow fadeInUp" data-wow-delay="0.1s">
                     <div class="team-item">
                         <div class="position-relative overflow-hidden">
-                            <img class="img-fluid" src="img/brand-7.png" alt="AUDI car service center in delhi NCR">
+                            <a href="{{url('/Audi-Service-Center-In-Delhi')}}" title="Audi Service center in delhi">
+                                <img class="img-fluid" src="img/brand-7.png" alt="AUDI car service center in delhi NCR">
+                            </a>
                         </div>
                     </div>
                 </div>
                 <div class="col-lg-3 col-md-6 wow fadeInUp" data-wow-delay="0.7s">
                     <div class="team-item">
                         <div class="position-relative overflow-hidden">
-                            <img class="img-fluid" src="img/brand-8.png" alt="VOLVO car service center in delhi NCR">
+                            <a href="{{url('/Volvo-Service-Center-In-Delhi')}}" title="Volvo Service Center In Delhi">
+                                <img class="img-fluid" src="img/brand-8.png" alt="VOLVO car service center in delhi NCR">
+                            </a>
                         </div>
                     </div>
                 </div>
