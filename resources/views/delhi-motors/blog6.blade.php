@@ -45,57 +45,24 @@
                 <div class="col-12 wow fadeIn" data-wow-delay="0.1s">
                     <div class="d-flex">
                         <div class="ps-3">
-                            <h2 class="mb-4">Top Rated Car Garage Near Me Delhi | Delhi Motors India – Trusted Vehicle
-                                Repair Services</h2>
-                            <p class="mb-4">When it comes to finding a top rated car garage near me Delhi, one name
-                                stands out — Delhi Motors India. Located in Mohan Estate, Delhi, we are your trusted
-                                partner for all your vehicle repair and maintenance needs. Whether it’s a minor issue or
-                                a major repair, our team of skilled technicians is equipped to provide fast and reliable
-                                service at affordable prices.</p>
+                            <h2 class="mb-4">Reliable Car Service Centre in Delhi Near Me | Delhi Motors India</h2>
+                            <p class="mb-4">If you are searching for a "Car service centre in Delhi near me", look no further than Delhi Motors India, located in Mohan Estate, Delhi. We specialize in providing top-notch vehicle repair services in Delhi with experienced technicians ready to help you maintain and repair your vehicle efficiently.</p>
                             <h3 class="mb-4"><u>Why Choose Delhi Motors India?</u></h3>
-                            <ul>
-                                <li><strong>Expert Vehicle Repair Services in Delhi</strong>: At Delhi Motors India, we
-                                    specialize in a wide range of repair services, from engine diagnostics and brake
-                                    repairs to suspension work and transmission issues. Our advanced equipment and
-                                    experienced mechanics ensure that your vehicle is restored to peak condition.</li>
+                            <p class="mb-4">At Delhi Motors India, we understand how crucial your vehicle is to your daily life. Whether you face a sudden breakdown or need regular maintenance, our expert team ensures quick, reliable, and affordable service. We are proud to offer a wide range of services, including engine repairs, brake servicing, AC repair, and much more.</p>
 
-                                <li><strong>24 Hrs Car Mechanic in Delhi NCR</strong>: We understand that vehicle
-                                    troubles can happen at any time. That’s why our <strong>24 Hrs car mechanic in Delhi
-                                        NCR</strong> service is always available to help you in emergencies. No matter
-                                    the hour, just call us, and our expert team will reach your location promptly.</li>
+                            <h2 class="mb-4">24 Hrs Car Mechanic in Delhi NCR</h2>
 
-                                <li><strong>Mechanic on Wheels in Delhi NCR</strong>: Don’t have the time to visit a
-                                    garage? Our innovative <strong>mechanic on wheels in Delhi NCR</strong> service
-                                    brings professional mechanics directly to your doorstep. From battery replacement to
-                                    minor part repairs, we handle it all without you needing to tow your vehicle.</li>
+                           <p class="mb-4">Life is unpredictable, and car troubles can occur anytime. That’s why we provide a 24 Hrs car mechanic in Delhi NCR service to get you back on the road without delay. Our dedicated mechanics are always ready to assist you, no matter the time or place.</p>
+                        
+                           <h2 class="mb-4">Mechanic on Wheels Delhi NCR</h2>
 
-                                <li><strong>Top Rated Car Garage Near Me Delhi</strong>: With years of experience and
-                                    thousands of satisfied customers, Delhi Motors India has earned the reputation of
-                                    being one of the most trusted and top rated car garages in Delhi. We prioritize
-                                    quality service, customer satisfaction, and fair pricing.</li>
-                            </ul>
+                           <p class="mb-4">Don’t want to tow your vehicle to a workshop? Our Mechanic on wheels Delhi NCR service brings professional assistance directly to your doorstep. Whether it's a flat tire, engine trouble, or battery issue, our fully equipped mobile service units handle all your car repair needs on the spot.</p>
 
-                            <h2 class="mb-4">Services We Offer:</h2>
+                            <h2 class="mb-4">Comprehensive Vehicle Repair Services in Delhi</h2>
 
-                            <ul>
-                                <li>Engine Repair & Diagnostics</li>
-                                <li>Brake System Repair</li>
-                                <li>Transmission Repair</li>
-                                <li>Electrical System Services</li>
-                                <li>AC Repair & Maintenance</li>
-                                <li>Battery Replacement</li>
-                                <li>Oil Change & Routine Maintenance</li>
-                            </ul>
+                            <p class="mb-4">From minor adjustments to major overhauls, our vehicle repair services in Delhi cover everything your vehicle might need. With advanced diagnostic tools and certified technicians, we ensure your car runs smoothly and safely for years to come.</p>
 
-                            <h2 class="mb-4">Visit Us at Mohan Estate, Delhi</h2>
-
-                            <p class="mb-4">Whenever you search for a <strong>top rated car garage near me Delhi</strong>, make sure
-                                you visit <strong>Delhi Motors India</strong>. Our central location in Mohan Estate
-                                makes it convenient for residents in Delhi NCR to access reliable vehicle repair
-                                services at any time.</p>
-
-                            <p class="mb-4"><strong>👉 Don’t wait for your car troubles to worsen!</strong> Contact <strong>Delhi
-                                    Motors India</strong> now for expert assistance and top-quality repair services.</p>
+                            <p class="mb-4"><strong>If you are in Mohan Estate, Delhi, and are searching for a reliable car service centre in Delhi near me, visit Delhi Motors India today for fast and trusted service. We are committed to providing transparent pricing, expert care, and customer satisfaction.</p>
                             <div>
                                 <b>Contact for more info:</b>
                                 <ul>
