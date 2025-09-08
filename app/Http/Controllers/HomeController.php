@@ -121,7 +121,7 @@ class HomeController extends Controller
         return view('delhi-motors/blog5', $data);
     }
 
-     public function car_service_and_repair_in_delhi_ncr()
+     public function top_rated_car_garage_near_me_delhi()
     {
         $data['page_title'] = "Top Rated Car Garage Near Me Delhi – 24 Hrs Car Mechanic | Delhi Motors India";
         $data['description'] = "Looking for the top rated car garage near me Delhi? Delhi Motors India at Mohan Estate offers expert vehicle repair services, 24 Hrs car mechanic in Delhi NCR, and mechanic on wheels in Delhi NCR. Visit us today!";
