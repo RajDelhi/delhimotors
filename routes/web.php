@@ -14,6 +14,8 @@ Route::get('best-car-repair-in-mohan-estate', [HomeController::class, 'best_car_
 Route::get('luxury-car-repair-shop-in-delhi-ncr', [HomeController::class, 'luxury_car_repair_shop_in_delhi_ncr']);
 Route::get('top-rated-car-garage-near-me-in-delhi-ncr', [HomeController::class, 'top_rated_car_garage_near_me_in_delhi']);
 Route::get('car-service-and-repair-in-delhi-ncr', [HomeController::class, 'car_service_and_repair_in_delhi_ncr']);
+Route::get('top-rated-car-garage-near-me-delhi', [HomeController::class, 'top_rated_car_garage_near_me_delhi']);
+
 
 Route::post('book-service', [HomeController::class, 'sendbookingemail']);
 
@@ -22,4 +24,3 @@ Route::get('BMW-Sevice-Center-In-Delhi', [ServicesController::class, 'bmw_sevice
 Route::get('Land-Rover-Service-Center-In-Delhi', [ServicesController::class, 'land_rover_service_center_in_delhi']);
 Route::get('Best-Mercedes-Service-Center-In-Delhi', [ServicesController::class, 'best_mercedes_service_center_in_delhi']);
 Route::get('Volvo-Service-Center-In-Delhi', [ServicesController::class, 'volvo_service_center_in_delhi']);
-Route::get('top-rated-car-garage-near-me-delhi', [ServicesController::class, 'top_rated_car_garage_near_me_delhi']);
