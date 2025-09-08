@@ -129,4 +129,12 @@ class HomeController extends Controller
         $data['s_keyword'] = "";
         return view('delhi-motors/blog6', $data);
     }
+    public function mechanic_on_wheels_delhi_ncr()
+    {
+        $data['page_title'] = "Mechanic on Wheels Delhi NCR | 24 Hrs Car Mechanic & Vehicle Repair Services - Delhi Motors India";
+        $data['description'] = "Delhi Motors India offers the best mechanic on wheels in Delhi NCR. 24 Hrs car mechanic in Delhi NCR, car service centre in Delhi, and vehicle repair services in Delhi. Call now for doorstep service!";
+        $data['p_keyword'] = "Mechanic on wheels delhi ncr, 24 Hrs car mechanic in delhi ncr, car service centre in delhi, vehicle repair services in delhi, Delhi Motors India, car repair Mohan Estate Delhi";
+        $data['s_keyword'] = "";
+        return view('delhi-motors/blog7', $data);
+    }
 }
