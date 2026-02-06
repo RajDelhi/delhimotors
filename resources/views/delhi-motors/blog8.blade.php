@@ -19,12 +19,12 @@
     <div class="container-fluid page-header mb-5 p-0" style="background-image: url(img/carousel-bg-1.jpg);">
         <div class="container-fluid page-header-inner py-5">
             <div class="container text-center">
-                <h1 class="display-3 text-white mb-3 animated slideInDown">Best Car Repair in Mohan Estate</h1>
+                <h1 class="display-3 text-white mb-3 animated slideInDown">Popular Car Repair & Services in Delhi NCR</h1>
                 <!-- <nav aria-label="breadcrumb">
                     <ol class="breadcrumb justify-content-center text-uppercase">
                         <li class="breadcrumb-item"><a href="#">Home</a></li>
                         <li class="breadcrumb-item"><a href="#">Pages</a></li>
-                        <li class="breadcrumb-item text-white active" aria-current="page">About Delhi Motors India</li>
+                        <li class="breadcrumb-item text-white active" aria-current="page">About Delhi Motors India</li>  
                     </ol>
                 </nav> -->
             </div>
@@ -42,7 +42,7 @@
         <div class="container">
             <div class="row g-5">
                 <div class="">
-                    <h1 class="mb-4">Car Service Centre in Delhi Near Me – Delhi Motors India</h1>
+                    <h1 class="mb-4">Popular Car Repair & Services in Delhi NCR – Delhi Motors India</h1>
 
                     <p class="mb-4">
                         Delhi Motors India is a trusted and professional car service centre in Delhi, offering reliable

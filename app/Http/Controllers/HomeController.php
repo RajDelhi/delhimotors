@@ -137,12 +137,12 @@ class HomeController extends Controller
         $data['s_keyword'] = "";
         return view('delhi-motors/blog7', $data);
     }
-    public function car_service_centre_in_delhi_near_me()
+    public function popular_car_repair_and_services_in_delhi_ncr()
     {
-        $data['page_title'] = "Car Service Centre in Delhi Near Me | Delhi Motors India";
+        $data['page_title'] = "Popular Car Repair & Services in Delhi ncr | Delhi Motors India";
         $data['description'] = "Looking for a trusted car service centre in Delhi near you? Delhi Motors India offers expert car repair, servicing & pickup-drop in Mohan Estate.";
         $data['p_keyword'] = "car service centre in delhi near me,car service centre in delhi,car repair in delhi,car servicing in mohan estate,car service centre south delhi,delhi motors india,car repair shop near me,multi brand car service centre delhi";
-        $data['s_keyword'] = "";
+        $data['s_keyword'] = ""; 
         return view('delhi-motors/blog8', $data);
     }
 }

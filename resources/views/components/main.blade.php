@@ -123,14 +123,14 @@
                 <div class="nav-item dropdown">
                     <a href="#" class="nav-link dropdown-toggle" data-bs-toggle="dropdown">Blog</a>
                     <div class="dropdown-menu fade-up m-0">
-                        <a href="{{url('/best-car-service-centre-in-delhi-near-me')}}" class="dropdown-item">Car Service Centre in Delhi Near Me</a>
+                        <a href="{{url('/popular-car-service-centre-in-delhi-near-me')}}" class="dropdown-item">Popular Car Repair & Services in Delhi ncr</a>
                         <a href="{{url('/mechanic-on-wheels-delhi-ncr')}}" class="dropdown-item">Mechanic on Wheels Delhi NCR</a>
                         <a href="{{url('/car-service-centre-in-delhi-near-me')}}" class="dropdown-item">Car service centre in delhi near me</a>
                         <a href="{{url('/car-service-and-repair-in-delhi-ncr')}}" class="dropdown-item">Car service and repair in Delhi NCR</a>
                         <a href="{{url('/top-rated-car-garage-near-me-in-delhi-ncr')}}" class="dropdown-item">Top rated car garage near me in Delhi</a>
                         <a href="{{url('/luxury-car-repair-shop-in-delhi-ncr')}}" class="dropdown-item">Luxury Car Repair Shop in Delhi NCR</a>
                         <a href="{{url('/best-car-repair-in-mohan-estate')}}" class="dropdown-item">Best Car Repair in Mohan Estate</a>
-                        <a href="{{url('/winter-car-maintenance-tips')}}" class="dropdown-item">Winter Car Maintenance Tips</a>
+                        <a href="{{url('/winter-car-maintenance-tips')}}" class="dropdown-item">Winter Car Maintenance Tips</a> 
                     </div>
                 </div>
                 <a href="{{url(path: '/contact-us')}}" class="nav-item nav-link">Contact</a>
