@@ -121,7 +121,7 @@
                 </div>
 
                 <div class="nav-item dropdown">
-                    <a href="#" class="nav-link dropdown-toggle" data-bs-toggle="dropdown">Blog</a>
+                    <a href="#" class="nav-link dropdown-toggle" data-bs-toggle="dropdown">Blogs</a>
                     <div class="dropdown-menu fade-up m-0">
                         <a href="{{url('/popular-car-repair-services-in-delhi-ncr')}}" class="dropdown-item">Popular Car Repair & Services in Delhi ncr</a>
                         <a href="{{url('/mechanic-on-wheels-delhi-ncr')}}" class="dropdown-item">Mechanic on Wheels Delhi NCR</a>
