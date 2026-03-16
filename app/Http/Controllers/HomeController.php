@@ -143,6 +143,6 @@ class HomeController extends Controller
         $data['description'] = "Looking for a trusted car service centre in Delhi near you? Delhi Motors India offers expert car repair, servicing & pickup-drop in Mohan Estate.";
         $data['p_keyword'] = "car service centre in delhi near me,car service centre in delhi,car repair in delhi,car servicing in mohan estate,car service centre south delhi,delhi motors india,car repair shop near me,multi brand car service centre delhi";
         $data['s_keyword'] = ""; 
-        return view('delhi-motors/blog8', $data);
+        return view('delhi-motors/blog8', $data); 
     }
 }
