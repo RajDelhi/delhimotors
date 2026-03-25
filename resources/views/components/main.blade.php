@@ -124,7 +124,7 @@
                     <a href="#" class="nav-link dropdown-toggle" data-bs-toggle="dropdown">Blogs</a>
                     <div class="dropdown-menu fade-up m-0">
                         <a href="{{url('/popular-car-repair-services-in-delhi-ncr')}}" class="dropdown-item">Popular Car Repair & Services in Delhi ncr</a>
-                        <a href="{{url('/mechanic-on-wheels-delhi-ncr')}}" class="dropdown-item">Mechanic on Wheels Delhi ncr</a>
+                        <a href="{{url('/mechanic-on-wheels-delhi-ncr')}}" class="dropdown-item">Mechanic on Wheels Delhi NCR</a>
                         <a href="{{url('/car-service-centre-in-delhi-near-me')}}" class="dropdown-item">Car service centre in delhi near me</a>
                         <a href="{{url('/car-service-and-repair-in-delhi-ncr')}}" class="dropdown-item">Car service and repair in Delhi NCR</a>
                         <a href="{{url('/top-rated-car-garage-near-me-in-delhi-ncr')}}" class="dropdown-item">Top rated car garage near me in Delhi</a>
