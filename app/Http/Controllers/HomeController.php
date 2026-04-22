@@ -145,4 +145,12 @@ class HomeController extends Controller
         $data['s_keyword'] = ""; 
         return view('delhi-motors/blog8', $data); 
     }
+    public function car_service_center_south_delhi()
+    {
+        $data['page_title'] = "Car Service Center in South Delhi | Top Car Repair Service in Delhi | Delhi Motors India";
+        $data['description'] = "Looking for the best car repair in Mohan Estate? Delhi Motors India offers top vehicle repair services in Delhi NCR with expert technicians, affordable pricing & fast service. Call now!";
+        $data['p_keyword'] = "vehicle repair services in delhi, top car repair service in delhi, best car repair in Mohan estate, Popular Car Repair & Services in Delhi NCR";
+        $data['s_keyword'] = ""; 
+        return view('delhi-motors/blog9', $data); 
+    }
 }
