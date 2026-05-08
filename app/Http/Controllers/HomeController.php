@@ -153,4 +153,12 @@ class HomeController extends Controller
         $data['s_keyword'] = ""; 
         return view('delhi-motors/blog9', $data); 
     }
+   public function vehicle_repair_services_in_delhi()
+    {
+        $data['page_title'] = "Vehicle Repair Services in Delhi | Car Repair & Maintenance | Delhi Motors India";        
+        $data['description'] = "Searching for reliable vehicle repair services in Delhi? Delhi Motors India provides engine repair, brake service, AC repair, battery replacement & complete car servicing in New Delhi. Book your service today!";
+        $data['p_keyword'] = "vehicle repair services in delhi, car repair service in delhi, car service center in delhi, auto repair workshop delhi, car maintenance delhi";
+        $data['s_keyword'] = "";         
+        return view('delhi-motors/blog10', $data); 
+    }
 }

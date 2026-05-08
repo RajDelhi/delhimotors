@@ -18,6 +18,7 @@ Route::get('car-service-centre-in-delhi-near-me', [HomeController::class, 'car_s
 Route::get('mechanic-on-wheels-delhi-ncr', [HomeController::class, 'mechanic_on_wheels_delhi_ncr']);
 Route::get('popular-car-repair-services-in-delhi-ncr', [HomeController::class, 'popular_car_repair_and_services_in_delhi_ncr']); 
 Route::get('car-service-center-south-delhi', [HomeController::class, 'car_service_center_south_delhi']);
+Route::get('vehicle-repair-services-in-delhi-ncr', [HomeController::class, 'vehicle_repair_services_in_delhi']);
 
 Route::post('book-service', [HomeController::class, 'sendbookingemail']);
 
