@@ -161,4 +161,13 @@ class HomeController extends Controller
         $data['s_keyword'] = "";         
         return view('delhi-motors/blog10', $data); 
     }
+
+    public function top_rated_car_service_and_repair_in_delhi()
+    {
+        $data['page_title'] = "Top Rated Car Service and Repair in Delhi | Best Car Repair in Mohan Estate | Delhi Motors India";        
+        $data['description'] = "Looking for the top car repair service in Delhi? Delhi Motors India offers the best car repair in Mohan Estate with expert technicians, genuine parts & affordable car servicing. Book your car service centre in Delhi near you today!";
+        $data['p_keyword'] = "best car repair in Mohan estate, car service centre in delhi, car service centre in delhi near me, top car repair service in delhi, car repair workshop delhi, car servicing delhi";
+        $data['s_keyword'] = ""; 
+        return view('delhi-motors/blog11', $data); 
+    }
 }
