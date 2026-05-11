@@ -19,7 +19,7 @@
     <div class="container-fluid page-header mb-5 p-0" style="background-image: url(img/carousel-bg-1.jpg);">
         <div class="container-fluid page-header-inner py-5">
             <div class="container text-center">
-                <h1 class="display-3 text-white mb-3 animated slideInDown">Vehicle Repair Services in Delhi NCR</h1>
+                <h1 class="display-3 text-white mb-3 animated slideInDown">Top Rated Car Service and Repair in Delhi</h1>
                 <!-- <nav aria-label="breadcrumb">
                     <ol class="breadcrumb justify-content-center text-uppercase">
                         <li class="breadcrumb-item"><a href="#">Home</a></li>
